@@ -1,0 +1,1159 @@
+id_client;sexe;tranche_age;enfant_conduite_accompagne;nombre_enfants;tranche_revenus;tranche_valeur_RP;formation;usage_vehicule;type_vehicule;vehicule_est_rouge;tranche nbr_pts-perdus;tranche_age_vehicule;type_conduite;date_demande_mois_année;etat_dossier;formule;tarif_devis
+1;F;18-36;FAUX;1;125000-150000;0-50000;Bachelors;Commercial;Sports Car;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+2;F;90-108;VRAI;1;50000-75000;0-50000;High School;Private;Minivan;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+3;F;36-54;FAUX;2;0-25000;0-50000;High School;Private;Pickup;FAUX;0-3 pts;0-5 ans;Highly Rural/ Rural;janv-22;complet;dev_express;A
+4;F;0-18;FAUX;0;0-25000;100000-150000;<High School;Private;SUV;FAUX;3-6 pts;5-10 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+5;M;54-72;FAUX;0;N/C;200000-250000;Bachelors;Commercial;Panel Truck;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;mars-22;complet;dev_vip;B
+6;F;18-36;FAUX;1;75000-100000;200000-250000;Bachelors;Private;SUV;FAUX;0-3 pts;15-20 ans;Highly Rural/ Rural;mars-22;complet;dev_premium;B
+7;F;72-90;VRAI;2;125000-150000;300000-350000;Bachelors;Commercial;Minivan;FAUX;0-3 pts;5-10 ans;Highly Rural/ Rural;mars-22;complet;dev_express;A
+8;M;54-72;FAUX;0;50000-75000;200000-250000;Bachelors;Private;SUV;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;mars-22;complet;dev_premium;A
+9;M;54-72;FAUX;0;100000-125000;300000-350000;PhD;Private;Minivan;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;janv-22;complet;dev_premium;A
+10;F;36-54;FAUX;0;N/C;250000-300000;Bachelors;Commercial;Panel Truck;VRAI;0-3 pts;10-15 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+11;F;54-72;VRAI;2;0-25000;0-50000;Bachelors;Private;Minivan;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+12;M;0-18;FAUX;4;0-25000;50000-100000;High School;Private;SUV;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;janv-22;complet;dev_premium;A
+13;F;72-90;FAUX;0;50000-75000;0-50000;PhD;Private;SUV;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+14;M;0-18;FAUX;0;0-25000;0-50000;High School;Commercial;Van;FAUX;3-6 pts;5-10 ans;Highly Rural/ Rural;mai-22;complet;dev_integral;A
+15;M;72-90;FAUX;1;25000-50000;200000-250000;High School;Private;Minivan;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+16;M;72-90;FAUX;0;25000-50000;150000-200000;Masters;Private;Minivan;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+17;F;36-54;FAUX;0;100000-125000;300000-350000;Masters;Private;SUV;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+18;F;72-90;FAUX;0;50000-75000;0-50000;Bachelors;Commercial;Van;VRAI;0-3 pts;5-10 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+19;F;54-72;FAUX;0;75000-100000;200000-250000;Bachelors;Private;Minivan;VRAI;0-3 pts;10-15 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+20;F;72-90;FAUX;0;25000-50000;150000-200000;Bachelors;Private;SUV;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+21;M;18-36;FAUX;1;50000-75000;200000-250000;Masters;Private;Minivan;FAUX;0-3 pts;15-20 ans;Highly Rural/ Rural;mars-22;complet;dev_express;A
+22;M;90-108;VRAI;3;25000-50000;100000-150000;<High School;Private;Minivan;FAUX;0-3 pts;N/C;Highly Urban/ Urban;mars-22;complet;dev_premium;A
+23;F;18-36;FAUX;0;N/C;100000-150000;High School;Commercial;Van;VRAI;0-3 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_premium;A
+24;F;72-90;FAUX;3;25000-50000;200000-250000;High School;Commercial;Sports Car;FAUX;3-6 pts;0-5 ans;Highly Urban/ Urban;févr-22;complet;dev_premium;B
+25;M;18-36;FAUX;0;0-25000;100000-150000;<High School;Commercial;Pickup;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+26;M;54-72;FAUX;0;N/C;N/C;High School;Private;Minivan;VRAI;0-3 pts;N/C;Highly Rural/ Rural;avr-22;complet;dev_express;A
+27;F;18-36;FAUX;0;25000-50000;0-50000;<High School;Private;Sports Car;FAUX;0-3 pts;0-5 ans;Highly Rural/ Rural;mars-22;complet;dev_integral;A
+28;F;36-54;FAUX;0;75000-100000;250000-300000;Masters;Private;SUV;FAUX;3-6 pts;N/C;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+29;F;54-72;FAUX;0;50000-75000;150000-200000;High School;Private;SUV;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;mars-22;complet;dev_vip;C
+30;F;0-18;FAUX;0;100000-125000;300000-350000;Masters;Private;SUV;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;févr-22;complet;dev_premium;A
+31;F;36-54;FAUX;2;25000-50000;150000-200000;High School;Private;SUV;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+32;M;36-54;FAUX;2;25000-50000;0-50000;<High School;Commercial;Minivan;VRAI;6-9 pts;5-10 ans;Highly Rural/ Rural;avr-22;complet;dev_integral;A
+33;F;54-72;FAUX;0;100000-125000;0-50000;Bachelors;Private;SUV;FAUX;3-6 pts;5-10 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+34;M;0-18;FAUX;0;25000-50000;150000-200000;<High School;Private;SUV;FAUX;0-3 pts;5-10 ans;Highly Rural/ Rural;févr-22;complet;dev_premium;B
+35;M;36-54;VRAI;2;50000-75000;200000-250000;Masters;Private;Sports Car;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+36;F;54-72;FAUX;0;0-25000;100000-150000;Bachelors;Private;SUV;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+37;F;54-72;FAUX;0;25000-50000;150000-200000;Bachelors;Commercial;Sports Car;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+38;F;0-18;FAUX;3;75000-100000;300000-350000;Masters;Private;SUV;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+39;F;54-72;FAUX;0;150000-175000;0-50000;Masters;Private;Minivan;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+40;M;18-36;FAUX;0;50000-75000;150000-200000;High School;Private;SUV;FAUX;0-3 pts;10-15 ans;Highly Rural/ Rural;mars-22;complet;dev_premium;B
+41;F;18-36;VRAI;2;N/C;0-50000;Bachelors;Private;Sports Car;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+42;F;72-90;FAUX;4;0-25000;0-50000;<High School;Private;SUV;FAUX;3-6 pts;5-10 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+43;M;54-72;FAUX;1;0-25000;0-50000;Bachelors;Commercial;Pickup;VRAI;0-3 pts;10-15 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+44;F;54-72;VRAI;2;50000-75000;150000-200000;High School;Private;Pickup;VRAI;0-3 pts;N/C;Highly Urban/ Urban;avr-22;complet;dev_premium;B
+45;M;36-54;FAUX;0;75000-100000;0-50000;Bachelors;Private;SUV;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+46;F;54-72;FAUX;0;75000-100000;250000-300000;Masters;Private;SUV;FAUX;3-6 pts;15-20 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+47;M;72-90;FAUX;1;0-25000;50000-100000;<High School;Private;SUV;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+48;F;36-54;FAUX;0;125000-150000;350000-400000;Masters;Commercial;Panel Truck;VRAI;0-3 pts;10-15 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+49;M;72-90;FAUX;0;75000-100000;0-50000;Bachelors;Commercial;Van;VRAI;0-3 pts;5-10 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+50;F;36-54;VRAI;2;50000-75000;150000-200000;<High School;Private;Van;VRAI;0-3 pts;0-5 ans;Highly Rural/ Rural;avr-22;complet;dev_integral;A
+51;F;18-36;FAUX;0;25000-50000;100000-150000;<High School;Commercial;Pickup;VRAI;6-9 pts;0-5 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+52;F;36-54;FAUX;3;25000-50000;150000-200000;<High School;Private;Minivan;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+53;M;18-36;FAUX;0;100000-125000;250000-300000;Bachelors;Private;Minivan;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+54;F;36-54;FAUX;0;50000-75000;0-50000;Masters;Private;Sports Car;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+55;F;0-18;FAUX;0;75000-100000;200000-250000;Bachelors;Commercial;Minivan;FAUX;3-6 pts;5-10 ans;Highly Rural/ Rural;avr-22;complet;dev_express;A
+56;M;36-54;FAUX;0;75000-100000;300000-350000;PhD;Private;Van;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;janv-22;complet;dev_premium;A
+57;F;54-72;FAUX;1;25000-50000;150000-200000;Masters;Commercial;Van;VRAI;3-6 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+58;M;18-36;FAUX;0;50000-75000;250000-300000;Bachelors;Private;SUV;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+59;F;72-90;VRAI;3;25000-50000;N/C;High School;Private;Van;VRAI;0-3 pts;0-5 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+60;F;18-36;VRAI;2;25000-50000;0-50000;High School;Private;Sports Car;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+61;F;72-90;FAUX;0;75000-100000;250000-300000;Masters;Private;Minivan;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+62;F;54-72;FAUX;0;25000-50000;150000-200000;Bachelors;Private;Pickup;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+63;F;54-72;FAUX;2;50000-75000;200000-250000;Bachelors;Commercial;Van;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+64;F;72-90;FAUX;1;25000-50000;0-50000;<High School;Private;Sports Car;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+65;F;0-18;FAUX;0;0-25000;100000-150000;Bachelors;Private;SUV;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+66;M;36-54;FAUX;0;50000-75000;200000-250000;High School;Private;SUV;FAUX;3-6 pts;0-5 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+67;M;54-72;FAUX;0;75000-100000;200000-250000;Bachelors;Private;Pickup;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+68;M;36-54;FAUX;0;0-25000;0-50000;<High School;Private;Minivan;FAUX;3-6 pts;5-10 ans;Highly Rural/ Rural;mai-22;complet;dev_express;A
+69;M;72-90;FAUX;1;0-25000;50000-100000;Bachelors;Private;SUV;VRAI;0-3 pts;10-15 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+70;F;18-36;FAUX;0;75000-100000;0-50000;Bachelors;Commercial;Pickup;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+71;F;0-18;FAUX;0;75000-100000;0-50000;Bachelors;Private;SUV;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+72;M;18-36;FAUX;0;175000-200000;450000-500000;PhD;Private;SUV;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+73;M;0-18;FAUX;0;75000-100000;250000-300000;Bachelors;Private;Minivan;VRAI;0-3 pts;5-10 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+74;F;72-90;FAUX;2;75000-100000;N/C;High School;Private;Minivan;FAUX;0-3 pts;5-10 ans;Highly Rural/ Rural;févr-22;complet;dev_premium;B
+75;M;72-90;FAUX;0;25000-50000;150000-200000;Bachelors;Private;Pickup;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+76;F;18-36;FAUX;0;100000-125000;0-50000;Masters;Private;SUV;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+77;F;72-90;FAUX;0;50000-75000;250000-300000;High School;Commercial;Minivan;FAUX;3-6 pts;0-5 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+78;M;36-54;FAUX;0;25000-50000;0-50000;Bachelors;Commercial;Panel Truck;FAUX;3-6 pts;10-15 ans;Highly Urban/ Urban;janv-22;complet;dev_premium;A
+79;F;36-54;FAUX;0;25000-50000;150000-200000;<High School;Private;Minivan;FAUX;3-6 pts;5-10 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+80;M;54-72;FAUX;0;100000-125000;0-50000;High School;Private;Minivan;VRAI;0-3 pts;0-5 ans;Highly Urban/ Urban;avr-22;complet;dev_premium;A
+81;M;72-90;FAUX;0;0-25000;0-50000;High School;Private;Sports Car;FAUX;0-3 pts;0-5 ans;Highly Rural/ Rural;janv-22;complet;dev_express;A
+82;M;54-72;FAUX;0;100000-125000;0-50000;High School;Commercial;Van;VRAI;0-3 pts;5-10 ans;Highly Rural/ Rural;févr-22;complet;dev_express;A
+83;F;54-72;FAUX;1;25000-50000;N/C;Bachelors;Commercial;SUV;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+84;M;54-72;FAUX;0;0-25000;0-50000;<High School;Private;Sports Car;FAUX;0-3 pts;N/C;Highly Rural/ Rural;mai-22;complet;dev_express;A
+85;M;54-72;FAUX;0;50000-75000;N/C;High School;Commercial;Pickup;VRAI;0-3 pts;5-10 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+86;M;36-54;FAUX;0;25000-50000;150000-200000;High School;Private;Minivan;VRAI;0-3 pts;5-10 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+87;M;36-54;FAUX;0;N/C;0-50000;Masters;Private;Minivan;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;janv-22;complet;dev_premium;B
+88;F;18-36;VRAI;2;0-25000;0-50000;High School;Private;SUV;FAUX;0-3 pts;0-5 ans;Highly Rural/ Rural;mai-22;complet;dev_express;A
+89;M;36-54;FAUX;0;25000-50000;200000-250000;Masters;Private;Minivan;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;févr-22;complet;dev_premium;B
+90;M;54-72;FAUX;2;25000-50000;150000-200000;Masters;Private;Sports Car;FAUX;0-3 pts;0-5 ans;Highly Rural/ Rural;janv-22;complet;dev_integral;A
+91;M;72-90;FAUX;0;50000-75000;150000-200000;High School;Commercial;Minivan;FAUX;3-6 pts;0-5 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+92;F;0-18;FAUX;1;0-25000;100000-150000;<High School;Private;Minivan;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;mars-22;complet;dev_premium;A
+93;F;0-18;FAUX;0;75000-100000;250000-300000;High School;Private;Sports Car;FAUX;6-9 pts;0-5 ans;Highly Urban/ Urban;févr-22;complet;dev_premium;B
+94;M;54-72;FAUX;0;50000-75000;0-50000;High School;Private;Van;VRAI;0-3 pts;0-5 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+95;F;54-72;FAUX;0;50000-75000;150000-200000;Bachelors;Private;Pickup;FAUX;3-6 pts;10-15 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+96;F;36-54;FAUX;0;25000-50000;N/C;High School;Commercial;Pickup;VRAI;0-3 pts;5-10 ans;Highly Rural/ Rural;janv-22;complet;dev_integral;A
+97;M;54-72;FAUX;0;25000-50000;0-50000;High School;Private;Minivan;FAUX;6-9 pts;0-5 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+98;F;36-54;VRAI;3;50000-75000;100000-150000;<High School;Private;Minivan;VRAI;0-3 pts;5-10 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+99;M;36-54;FAUX;2;50000-75000;200000-250000;PhD;Private;Van;VRAI;0-3 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+100;M;18-36;FAUX;0;50000-75000;0-50000;High School;Commercial;SUV;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+101;M;54-72;FAUX;2;0-25000;50000-100000;Masters;Commercial;Pickup;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+102;F;18-36;FAUX;1;50000-75000;200000-250000;High School;Private;Minivan;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+103;M;36-54;FAUX;0;100000-125000;0-50000;Bachelors;Private;Minivan;FAUX;6-9 pts;10-15 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+104;M;0-18;FAUX;0;200000-225000;0-50000;Masters;Commercial;Panel Truck;VRAI;3-6 pts;15-20 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+105;M;54-72;FAUX;0;50000-75000;0-50000;Bachelors;Private;Minivan;VRAI;0-3 pts;10-15 ans;Highly Urban/ Urban;mai-22;complet;dev_premium;B
+106;M;18-36;FAUX;2;N/C;450000-500000;PhD;Commercial;Panel Truck;VRAI;0-3 pts;10-15 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+107;F;54-72;VRAI;1;0-25000;100000-150000;<High School;Private;Minivan;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+108;M;36-54;FAUX;3;50000-75000;250000-300000;Bachelors;Commercial;Minivan;VRAI;0-3 pts;10-15 ans;Highly Rural/ Rural;mars-22;complet;dev_integral;A
+109;F;54-72;FAUX;2;125000-150000;350000-400000;Bachelors;Private;Minivan;VRAI;3-6 pts;10-15 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+110;M;90-108;FAUX;0;0-25000;100000-150000;High School;Private;SUV;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;avr-22;complet;dev_premium;A
+111;M;36-54;FAUX;0;50000-75000;150000-200000;Bachelors;Commercial;SUV;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+112;M;54-72;VRAI;1;100000-125000;250000-300000;Bachelors;Commercial;Minivan;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+113;M;54-72;FAUX;1;0-25000;100000-150000;High School;Private;SUV;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+114;F;54-72;FAUX;1;25000-50000;100000-150000;High School;Commercial;Minivan;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+115;F;54-72;FAUX;0;75000-100000;200000-250000;Bachelors;Private;SUV;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;janv-22;complet;dev_premium;A
+116;F;36-54;VRAI;2;0-25000;100000-150000;<High School;Private;Minivan;FAUX;0-3 pts;0-5 ans;Highly Rural/ Rural;janv-22;complet;dev_premium;B
+117;F;72-90;VRAI;2;25000-50000;150000-200000;Bachelors;Private;Sports Car;FAUX;0-3 pts;10-15 ans;Highly Rural/ Rural;janv-22;complet;dev_express;A
+118;F;54-72;VRAI;3;0-25000;100000-150000;High School;Private;Pickup;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+119;M;0-18;VRAI;2;50000-75000;0-50000;High School;Commercial;Sports Car;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+120;M;0-18;FAUX;0;75000-100000;200000-250000;Masters;Private;Minivan;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+121;M;54-72;FAUX;0;0-25000;100000-150000;PhD;Private;SUV;FAUX;0-3 pts;10-15 ans;Highly Rural/ Rural;févr-22;complet;dev_integral;A
+122;M;54-72;FAUX;1;75000-100000;300000-350000;Masters;Private;Minivan;VRAI;0-3 pts;10-15 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+123;M;54-72;FAUX;0;100000-125000;0-50000;Bachelors;Private;SUV;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+124;F;36-54;FAUX;0;50000-75000;200000-250000;Bachelors;Private;Pickup;VRAI;0-3 pts;10-15 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+125;F;18-36;FAUX;2;25000-50000;100000-150000;Masters;Private;Van;FAUX;3-6 pts;5-10 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+126;M;18-36;FAUX;0;75000-100000;0-50000;Bachelors;Private;Minivan;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+127;M;54-72;FAUX;0;100000-125000;250000-300000;High School;Private;Minivan;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+128;M;0-18;FAUX;0;0-25000;50000-100000;High School;Commercial;Minivan;VRAI;6-9 pts;0-5 ans;Highly Rural/ Rural;mars-22;complet;dev_express;A
+129;M;18-36;FAUX;0;50000-75000;200000-250000;Bachelors;Commercial;Sports Car;FAUX;0-3 pts;N/C;Highly Urban/ Urban;avr-22;complet;dev_premium;B
+130;M;54-72;FAUX;0;125000-150000;300000-350000;PhD;Private;Minivan;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+131;F;54-72;FAUX;2;0-25000;50000-100000;Bachelors;Private;Sports Car;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+132;F;54-72;FAUX;1;25000-50000;0-50000;High School;Private;Minivan;FAUX;6-9 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_vip;B
+133;M;0-18;FAUX;3;0-25000;50000-100000;<High School;Private;SUV;FAUX;0-3 pts;0-5 ans;Highly Rural/ Rural;mars-22;complet;dev_express;A
+134;M;54-72;FAUX;0;25000-50000;150000-200000;High School;Private;Minivan;VRAI;3-6 pts;5-10 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+135;F;0-18;VRAI;1;25000-50000;150000-200000;Bachelors;Private;SUV;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+136;F;90-108;FAUX;1;75000-100000;0-50000;Masters;Private;Minivan;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+137;M;0-18;FAUX;0;25000-50000;200000-250000;Masters;Commercial;Van;VRAI;0-3 pts;15-20 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+138;M;36-54;VRAI;3;125000-150000;350000-400000;Masters;Commercial;Van;FAUX;3-6 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+139;M;36-54;FAUX;2;25000-50000;100000-150000;High School;Commercial;SUV;FAUX;3-6 pts;0-5 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+140;F;36-54;FAUX;4;N/C;50000-100000;High School;Private;Sports Car;FAUX;6-9 pts;5-10 ans;Highly Urban/ Urban;avr-22;complet;dev_premium;B
+141;M;36-54;FAUX;0;75000-100000;250000-300000;High School;Commercial;Sports Car;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+142;F;36-54;FAUX;0;100000-125000;300000-350000;Masters;Private;Minivan;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+143;F;0-18;FAUX;2;125000-150000;450000-500000;Bachelors;Private;Pickup;VRAI;0-3 pts;10-15 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+144;M;72-90;FAUX;0;25000-50000;0-50000;Bachelors;Private;SUV;FAUX;3-6 pts;15-20 ans;Highly Urban/ Urban;févr-22;complet;dev_premium;B
+145;M;72-90;FAUX;2;0-25000;0-50000;High School;Commercial;SUV;FAUX;6-9 pts;N/C;Highly Urban/ Urban;mai-22;complet;dev_express;A
+146;M;36-54;FAUX;0;25000-50000;150000-200000;Bachelors;Private;SUV;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+147;M;54-72;FAUX;0;75000-100000;200000-250000;Bachelors;Private;SUV;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+148;M;36-54;VRAI;3;0-25000;0-50000;High School;Private;SUV;FAUX;0-3 pts;10-15 ans;Highly Rural/ Rural;avr-22;complet;dev_integral;A
+149;F;72-90;FAUX;0;75000-100000;250000-300000;Masters;Private;SUV;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+150;F;72-90;FAUX;0;75000-100000;250000-300000;Masters;Private;Minivan;FAUX;0-3 pts;15-20 ans;Highly Rural/ Rural;févr-22;complet;dev_express;A
+151;M;72-90;FAUX;0;25000-50000;200000-250000;High School;Private;Minivan;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+152;F;54-72;FAUX;0;50000-75000;0-50000;Bachelors;Private;SUV;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+153;F;54-72;FAUX;2;N/C;350000-400000;PhD;Private;Minivan;VRAI;3-6 pts;0-5 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+154;M;18-36;FAUX;0;25000-50000;150000-200000;<High School;Private;Minivan;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+155;F;72-90;FAUX;2;25000-50000;0-50000;High School;Commercial;Pickup;VRAI;0-3 pts;5-10 ans;Highly Rural/ Rural;févr-22;complet;dev_integral;A
+156;M;72-90;VRAI;3;125000-150000;400000-450000;PhD;Commercial;Van;VRAI;0-3 pts;10-15 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+157;F;54-72;FAUX;1;0-25000;100000-150000;<High School;Private;Sports Car;FAUX;3-6 pts;0-5 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+158;M;72-90;FAUX;0;75000-100000;250000-300000;Masters;Private;Pickup;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+159;M;72-90;FAUX;0;100000-125000;300000-350000;Bachelors;Commercial;Minivan;VRAI;0-3 pts;5-10 ans;Highly Rural/ Rural;mai-22;complet;dev_integral;A
+160;M;54-72;FAUX;0;75000-100000;250000-300000;High School;Commercial;SUV;FAUX;6-9 pts;0-5 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+161;M;54-72;VRAI;2;75000-100000;250000-300000;Bachelors;Private;Sports Car;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+162;M;18-36;FAUX;0;100000-125000;300000-350000;Bachelors;Private;SUV;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;mars-22;complet;dev_premium;B
+163;F;36-54;VRAI;2;150000-175000;350000-400000;Masters;Private;Minivan;FAUX;0-3 pts;10-15 ans;Highly Rural/ Rural;févr-22;complet;dev_integral;A
+164;F;54-72;FAUX;2;25000-50000;150000-200000;Masters;Private;Minivan;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+165;F;54-72;FAUX;0;0-25000;0-50000;Bachelors;Private;Sports Car;FAUX;0-3 pts;5-10 ans;Highly Rural/ Rural;avr-22;complet;dev_express;A
+166;F;36-54;VRAI;2;0-25000;0-50000;<High School;Private;Minivan;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+167;F;90-108;FAUX;2;50000-75000;250000-300000;Masters;Private;Sports Car;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+168;F;18-36;FAUX;2;25000-50000;0-50000;High School;Commercial;Pickup;VRAI;0-3 pts;0-5 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+169;F;54-72;FAUX;0;100000-125000;300000-350000;Masters;Commercial;Panel Truck;FAUX;0-3 pts;N/C;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+170;F;72-90;FAUX;0;25000-50000;150000-200000;High School;Commercial;SUV;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+171;M;36-54;FAUX;3;75000-100000;200000-250000;Bachelors;Private;Pickup;VRAI;0-3 pts;10-15 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+172;F;18-36;FAUX;0;0-25000;100000-150000;High School;Commercial;Minivan;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+173;M;54-72;FAUX;0;75000-100000;250000-300000;Bachelors;Commercial;Minivan;FAUX;0-3 pts;10-15 ans;Highly Rural/ Rural;févr-22;complet;dev_integral;A
+174;F;36-54;FAUX;1;50000-75000;150000-200000;PhD;Private;Minivan;VRAI;0-3 pts;20-25 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+175;M;36-54;FAUX;0;0-25000;0-50000;High School;Private;SUV;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+176;M;72-90;FAUX;0;100000-125000;300000-350000;Masters;Commercial;Pickup;FAUX;6-9 pts;N/C;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+177;F;54-72;FAUX;0;0-25000;0-50000;High School;Commercial;Van;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+178;M;18-36;FAUX;0;N/C;0-50000;Masters;Private;Sports Car;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+179;M;54-72;FAUX;3;0-25000;100000-150000;High School;Private;SUV;FAUX;0-3 pts;0-5 ans;Highly Rural/ Rural;janv-22;complet;dev_integral;A
+180;F;54-72;FAUX;2;25000-50000;150000-200000;High School;Commercial;Van;VRAI;0-3 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_premium;B
+181;F;72-90;FAUX;0;50000-75000;200000-250000;Bachelors;Commercial;Pickup;FAUX;0-3 pts;N/C;Highly Urban/ Urban;mai-22;complet;dev_express;A
+182;F;18-36;VRAI;3;25000-50000;200000-250000;High School;Commercial;Van;FAUX;0-3 pts;5-10 ans;Highly Rural/ Rural;févr-22;complet;dev_express;A
+183;M;36-54;FAUX;0;150000-175000;450000-500000;Bachelors;Commercial;Panel Truck;VRAI;0-3 pts;10-15 ans;Highly Rural/ Rural;janv-22;complet;dev_integral;A
+184;F;72-90;FAUX;0;100000-125000;0-50000;PhD;Private;Van;VRAI;0-3 pts;10-15 ans;Highly Urban/ Urban;janv-22;complet;dev_premium;A
+185;F;54-72;FAUX;0;0-25000;100000-150000;High School;Private;Pickup;VRAI;0-3 pts;0-5 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+186;M;18-36;VRAI;3;25000-50000;200000-250000;High School;Commercial;SUV;FAUX;6-9 pts;5-10 ans;Highly Urban/ Urban;avr-22;complet;dev_premium;B
+187;F;54-72;FAUX;0;0-25000;N/C;<High School;Private;SUV;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+188;F;18-36;FAUX;2;0-25000;50000-100000;Masters;Private;SUV;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+189;F;54-72;FAUX;0;0-25000;100000-150000;<High School;Private;SUV;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;janv-22;complet;dev_premium;B
+190;F;0-18;FAUX;0;75000-100000;0-50000;Bachelors;Private;Minivan;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;mai-22;complet;dev_vip;B
+191;M;36-54;FAUX;0;75000-100000;0-50000;Masters;Commercial;Van;VRAI;3-6 pts;N/C;Highly Urban/ Urban;mai-22;complet;dev_express;A
+192;M;0-18;FAUX;0;25000-50000;100000-150000;High School;Private;Sports Car;FAUX;3-6 pts;0-5 ans;Highly Urban/ Urban;janv-22;complet;dev_premium;B
+193;F;54-72;FAUX;0;100000-125000;350000-400000;Masters;Private;Sports Car;FAUX;0-3 pts;5-10 ans;Highly Rural/ Rural;janv-22;complet;dev_integral;A
+194;F;18-36;FAUX;0;50000-75000;150000-200000;High School;Commercial;Panel Truck;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;janv-22;complet;dev_premium;B
+195;F;36-54;FAUX;0;175000-200000;400000-450000;Masters;Private;SUV;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+196;F;54-72;FAUX;2;50000-75000;200000-250000;Bachelors;Private;Sports Car;FAUX;3-6 pts;5-10 ans;Highly Urban/ Urban;avr-22;complet;dev_premium;A
+197;F;54-72;FAUX;4;50000-75000;0-50000;PhD;Private;Minivan;FAUX;3-6 pts;15-20 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+198;M;72-90;FAUX;0;100000-125000;300000-350000;Bachelors;Commercial;Panel Truck;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+199;F;36-54;FAUX;1;25000-50000;150000-200000;<High School;Private;SUV;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+200;F;54-72;FAUX;0;25000-50000;150000-200000;High School;Commercial;Minivan;FAUX;0-3 pts;N/C;Highly Rural/ Rural;févr-22;complet;dev_express;A
+201;M;0-18;FAUX;0;25000-50000;50000-100000;High School;Private;Sports Car;VRAI;9-12 pts;5-10 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+202;M;72-90;FAUX;0;50000-75000;200000-250000;High School;Commercial;Pickup;VRAI;3-6 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+203;M;54-72;VRAI;2;25000-50000;150000-200000;High School;Commercial;Minivan;VRAI;0-3 pts;0-5 ans;Highly Urban/ Urban;avr-22;complet;dev_premium;B
+204;F;72-90;FAUX;0;50000-75000;200000-250000;Bachelors;Commercial;SUV;FAUX;0-3 pts;10-15 ans;Highly Rural/ Rural;avr-22;complet;dev_premium;B
+205;M;72-90;FAUX;1;25000-50000;100000-150000;High School;Private;Sports Car;FAUX;3-6 pts;5-10 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+206;M;36-54;FAUX;0;50000-75000;0-50000;High School;Commercial;Minivan;VRAI;0-3 pts;0-5 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+207;M;72-90;FAUX;0;50000-75000;N/C;Bachelors;Commercial;Minivan;VRAI;6-9 pts;N/C;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+208;M;54-72;FAUX;0;0-25000;0-50000;Bachelors;Private;Minivan;FAUX;0-3 pts;10-15 ans;Highly Rural/ Rural;févr-22;complet;dev_express;A
+209;M;54-72;VRAI;1;25000-50000;150000-200000;High School;Commercial;Panel Truck;VRAI;0-3 pts;5-10 ans;Highly Urban/ Urban;avr-22;complet;dev_premium;B
+210;F;36-54;FAUX;3;25000-50000;150000-200000;<High School;Private;SUV;FAUX;0-3 pts;5-10 ans;Highly Rural/ Rural;avr-22;complet;dev_integral;A
+211;F;18-36;VRAI;2;50000-75000;150000-200000;Bachelors;Private;Minivan;FAUX;0-3 pts;5-10 ans;Highly Rural/ Rural;janv-22;complet;dev_integral;A
+212;F;36-54;FAUX;0;100000-125000;300000-350000;PhD;Commercial;Panel Truck;VRAI;0-3 pts;15-20 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+213;F;54-72;FAUX;0;25000-50000;0-50000;PhD;Private;SUV;VRAI;0-3 pts;N/C;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+214;F;36-54;FAUX;0;25000-50000;200000-250000;Bachelors;Commercial;Van;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+215;M;54-72;FAUX;2;25000-50000;150000-200000;High School;Commercial;Van;FAUX;3-6 pts;N/C;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+216;M;54-72;FAUX;0;100000-125000;300000-350000;Masters;Private;SUV;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;janv-22;complet;dev_premium;B
+217;F;36-54;FAUX;3;25000-50000;150000-200000;High School;Private;Pickup;VRAI;0-3 pts;5-10 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+218;F;0-18;FAUX;0;50000-75000;0-50000;Masters;Private;SUV;FAUX;6-9 pts;15-20 ans;Highly Urban/ Urban;avr-22;complet;dev_premium;B
+219;M;54-72;FAUX;0;0-25000;50000-100000;<High School;Private;Sports Car;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;avr-22;complet;dev_premium;B
+220;M;54-72;VRAI;3;25000-50000;150000-200000;High School;Private;Minivan;FAUX;0-3 pts;0-5 ans;Highly Rural/ Rural;avr-22;complet;dev_integral;A
+221;M;72-90;FAUX;3;100000-125000;250000-300000;PhD;Private;Sports Car;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+222;M;54-72;VRAI;1;N/C;150000-200000;PhD;Commercial;Pickup;FAUX;0-3 pts;15-20 ans;Highly Rural/ Rural;mai-22;complet;dev_integral;A
+223;F;18-36;FAUX;0;75000-100000;200000-250000;Bachelors;Private;SUV;FAUX;3-6 pts;0-5 ans;Highly Urban/ Urban;janv-22;complet;dev_premium;B
+224;F;0-18;FAUX;4;100000-125000;300000-350000;Bachelors;Commercial;SUV;FAUX;3-6 pts;5-10 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+225;F;72-90;FAUX;0;25000-50000;150000-200000;Bachelors;Commercial;Minivan;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+226;M;54-72;FAUX;0;125000-150000;300000-350000;Bachelors;Private;Minivan;FAUX;3-6 pts;10-15 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+227;F;54-72;FAUX;0;25000-50000;0-50000;Bachelors;Private;SUV;FAUX;3-6 pts;5-10 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+228;M;18-36;FAUX;2;25000-50000;150000-200000;High School;Private;SUV;FAUX;0-3 pts;0-5 ans;Highly Rural/ Rural;févr-22;complet;dev_premium;B
+229;F;54-72;FAUX;0;0-25000;0-50000;<High School;Private;Minivan;VRAI;0-3 pts;0-5 ans;Highly Urban/ Urban;mars-22;complet;dev_premium;A
+230;F;72-90;FAUX;0;25000-50000;150000-200000;<High School;Private;Pickup;VRAI;3-6 pts;0-5 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+231;F;18-36;FAUX;0;50000-75000;150000-200000;High School;Private;SUV;FAUX;3-6 pts;N/C;Highly Urban/ Urban;mai-22;complet;dev_express;A
+232;M;0-18;VRAI;2;50000-75000;200000-250000;Bachelors;Private;Minivan;VRAI;0-3 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+233;F;18-36;FAUX;0;75000-100000;200000-250000;PhD;Private;Minivan;VRAI;3-6 pts;N/C;Highly Urban/ Urban;janv-22;complet;dev_express;A
+234;F;36-54;FAUX;0;50000-75000;0-50000;Bachelors;Commercial;SUV;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+235;F;54-72;FAUX;1;0-25000;0-50000;<High School;Private;SUV;FAUX;0-3 pts;5-10 ans;Highly Rural/ Rural;avr-22;complet;dev_integral;A
+236;M;54-72;FAUX;0;25000-50000;150000-200000;Masters;Private;Pickup;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+237;F;36-54;FAUX;0;175000-200000;400000-450000;PhD;Commercial;Panel Truck;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;mars-22;complet;dev_premium;B
+238;F;54-72;FAUX;0;175000-200000;450000-500000;Masters;Private;SUV;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+239;M;72-90;FAUX;2;25000-50000;0-50000;<High School;Private;SUV;FAUX;3-6 pts;0-5 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+240;F;54-72;FAUX;0;75000-100000;250000-300000;PhD;Private;Minivan;VRAI;3-6 pts;10-15 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+241;F;36-54;FAUX;0;50000-75000;N/C;Masters;Private;Minivan;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+242;M;54-72;FAUX;0;75000-100000;300000-350000;High School;Commercial;SUV;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+243;F;72-90;FAUX;0;0-25000;0-50000;Bachelors;Commercial;Pickup;VRAI;0-3 pts;10-15 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+244;F;72-90;VRAI;2;75000-100000;N/C;Masters;Private;Sports Car;FAUX;6-9 pts;10-15 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+245;M;0-18;FAUX;1;25000-50000;0-50000;High School;Private;SUV;FAUX;3-6 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+246;F;72-90;FAUX;0;N/C;200000-250000;Bachelors;Private;Van;VRAI;3-6 pts;10-15 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+247;M;18-36;VRAI;2;50000-75000;150000-200000;High School;Commercial;Pickup;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_premium;B
+248;M;0-18;FAUX;3;0-25000;100000-150000;<High School;Commercial;Van;VRAI;0-3 pts;0-5 ans;Highly Rural/ Rural;janv-22;complet;dev_integral;A
+249;M;18-36;FAUX;0;25000-50000;150000-200000;High School;Private;Pickup;VRAI;0-3 pts;10-15 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+250;F;18-36;FAUX;0;75000-100000;250000-300000;Masters;Private;Minivan;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+251;M;0-18;FAUX;0;100000-125000;300000-350000;Masters;Private;SUV;FAUX;0-3 pts;20-25 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+252;F;18-36;FAUX;0;50000-75000;0-50000;High School;Commercial;SUV;FAUX;3-6 pts;10-15 ans;Highly Rural/ Rural;mai-22;complet;dev_express;A
+253;M;54-72;FAUX;0;25000-50000;150000-200000;Bachelors;Commercial;Minivan;FAUX;3-6 pts;5-10 ans;Highly Urban/ Urban;janv-22;complet;dev_premium;B
+254;F;54-72;FAUX;0;125000-150000;300000-350000;Masters;Private;Van;VRAI;0-3 pts;15-20 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+255;M;0-18;FAUX;0;25000-50000;0-50000;Masters;Private;Minivan;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+256;M;54-72;FAUX;3;75000-100000;250000-300000;Bachelors;Commercial;Van;VRAI;0-3 pts;N/C;Highly Rural/ Rural;mai-22;complet;dev_premium;B
+257;M;54-72;FAUX;3;N/C;150000-200000;Masters;Private;Minivan;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+258;F;18-36;VRAI;3;25000-50000;N/C;<High School;Private;Minivan;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+259;F;72-90;FAUX;0;0-25000;0-50000;High School;Private;Minivan;VRAI;0-3 pts;0-5 ans;Highly Rural/ Rural;mars-22;complet;dev_premium;B
+260;F;54-72;FAUX;0;25000-50000;N/C;Bachelors;Commercial;Panel Truck;FAUX;3-6 pts;10-15 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+261;F;0-18;FAUX;0;50000-75000;200000-250000;Bachelors;Commercial;Panel Truck;FAUX;3-6 pts;5-10 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+262;F;72-90;FAUX;2;75000-100000;300000-350000;Bachelors;Commercial;Van;VRAI;0-3 pts;5-10 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+263;M;0-18;FAUX;0;150000-175000;0-50000;Masters;Commercial;Pickup;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+264;M;0-18;FAUX;0;75000-100000;0-50000;Bachelors;Commercial;Van;FAUX;6-9 pts;10-15 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+265;M;72-90;FAUX;0;0-25000;100000-150000;High School;Private;SUV;FAUX;3-6 pts;N/C;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+266;M;54-72;FAUX;0;50000-75000;200000-250000;Bachelors;Private;SUV;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+267;M;36-54;FAUX;0;75000-100000;200000-250000;Bachelors;Private;SUV;FAUX;0-3 pts;0-5 ans;Highly Rural/ Rural;janv-22;complet;dev_premium;A
+268;M;0-18;FAUX;0;150000-175000;450000-500000;PhD;Commercial;Panel Truck;FAUX;3-6 pts;10-15 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+269;F;54-72;FAUX;0;50000-75000;200000-250000;Masters;Private;SUV;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+270;F;54-72;FAUX;0;100000-125000;250000-300000;Masters;Private;Minivan;FAUX;3-6 pts;10-15 ans;Highly Urban/ Urban;mai-22;complet;dev_premium;A
+271;F;18-36;FAUX;0;25000-50000;150000-200000;Bachelors;Commercial;Sports Car;FAUX;3-6 pts;10-15 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+272;M;54-72;FAUX;0;175000-200000;500000-550000;PhD;Commercial;Pickup;FAUX;3-6 pts;10-15 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+273;F;36-54;FAUX;0;75000-100000;200000-250000;High School;Commercial;Van;FAUX;3-6 pts;5-10 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+274;M;18-36;FAUX;0;50000-75000;200000-250000;High School;Private;Van;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+275;M;36-54;FAUX;1;50000-75000;0-50000;Bachelors;Private;SUV;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+276;F;72-90;FAUX;0;75000-100000;250000-300000;PhD;Commercial;Panel Truck;FAUX;3-6 pts;10-15 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+277;M;18-36;VRAI;2;75000-100000;250000-300000;Bachelors;Commercial;Pickup;FAUX;3-6 pts;5-10 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+278;M;54-72;FAUX;0;25000-50000;0-50000;<High School;Commercial;Pickup;VRAI;3-6 pts;0-5 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+279;M;18-36;FAUX;0;125000-150000;300000-350000;Masters;Commercial;Panel Truck;FAUX;3-6 pts;20-25 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+280;M;72-90;FAUX;0;0-25000;0-50000;Bachelors;Private;SUV;FAUX;3-6 pts;0-5 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+281;M;54-72;FAUX;0;50000-75000;150000-200000;Masters;Private;Minivan;VRAI;0-3 pts;10-15 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+282;M;0-18;FAUX;0;0-25000;0-50000;PhD;Private;Sports Car;FAUX;3-6 pts;10-15 ans;Highly Urban/ Urban;janv-22;complet;dev_premium;B
+283;F;0-18;FAUX;0;50000-75000;0-50000;High School;Private;Sports Car;FAUX;0-3 pts;10-15 ans;Highly Rural/ Rural;mars-22;complet;dev_integral;A
+284;F;36-54;FAUX;0;25000-50000;150000-200000;Bachelors;Private;Minivan;VRAI;3-6 pts;10-15 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+285;F;72-90;FAUX;0;75000-100000;200000-250000;Bachelors;Private;SUV;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+286;F;0-18;FAUX;0;25000-50000;150000-200000;<High School;Private;Pickup;VRAI;0-3 pts;0-5 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+287;F;36-54;FAUX;0;25000-50000;100000-150000;High School;Commercial;Pickup;VRAI;0-3 pts;10-15 ans;Highly Rural/ Rural;janv-22;complet;dev_integral;A
+288;M;54-72;FAUX;0;N/C;150000-200000;Bachelors;Private;Minivan;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+289;F;72-90;FAUX;0;275000-300000;0-50000;Masters;Commercial;Panel Truck;VRAI;0-3 pts;15-20 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+290;M;54-72;FAUX;1;75000-100000;150000-200000;Bachelors;Private;Pickup;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;janv-22;complet;dev_premium;B
+291;M;54-72;FAUX;0;25000-50000;150000-200000;High School;Private;Pickup;FAUX;3-6 pts;5-10 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+292;M;0-18;FAUX;0;50000-75000;200000-250000;High School;Private;Pickup;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+293;M;0-18;FAUX;0;25000-50000;150000-200000;Masters;Private;Minivan;FAUX;3-6 pts;N/C;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+294;M;0-18;FAUX;0;50000-75000;200000-250000;Bachelors;Commercial;Van;VRAI;0-3 pts;0-5 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+295;F;18-36;FAUX;1;25000-50000;150000-200000;Masters;Private;SUV;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+296;F;36-54;FAUX;2;75000-100000;250000-300000;Bachelors;Private;SUV;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+297;F;0-18;FAUX;0;25000-50000;0-50000;High School;Private;SUV;FAUX;6-9 pts;N/C;Highly Urban/ Urban;avr-22;complet;dev_premium;B
+298;F;72-90;VRAI;1;100000-125000;300000-350000;Bachelors;Private;Minivan;VRAI;0-3 pts;10-15 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+299;F;54-72;FAUX;0;50000-75000;0-50000;Masters;Private;Pickup;VRAI;0-3 pts;10-15 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+300;F;18-36;FAUX;3;25000-50000;150000-200000;Masters;Commercial;Panel Truck;FAUX;0-3 pts;20-25 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+301;M;36-54;FAUX;0;0-25000;100000-150000;High School;Commercial;Sports Car;FAUX;0-3 pts;0-5 ans;Highly Rural/ Rural;mai-22;complet;dev_integral;A
+302;F;0-18;FAUX;2;75000-100000;0-50000;High School;Private;Pickup;FAUX;0-3 pts;10-15 ans;Highly Rural/ Rural;avr-22;complet;dev_integral;A
+303;F;36-54;FAUX;3;0-25000;0-50000;High School;Private;SUV;FAUX;0-3 pts;0-5 ans;Highly Rural/ Rural;mai-22;complet;dev_express;A
+304;F;54-72;VRAI;3;0-25000;0-50000;<High School;Private;Minivan;VRAI;3-6 pts;0-5 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+305;F;72-90;FAUX;0;25000-50000;200000-250000;Bachelors;Private;Pickup;FAUX;0-3 pts;10-15 ans;Highly Rural/ Rural;mars-22;complet;dev_express;A
+306;F;54-72;FAUX;0;200000-225000;0-50000;PhD;Private;Sports Car;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+307;M;0-18;FAUX;0;125000-150000;300000-350000;Masters;Commercial;Pickup;VRAI;3-6 pts;20-25 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+308;F;72-90;FAUX;0;0-25000;50000-100000;Bachelors;Private;SUV;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+309;F;18-36;FAUX;0;50000-75000;200000-250000;Bachelors;Private;Minivan;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;févr-22;complet;dev_premium;B
+310;F;36-54;FAUX;0;125000-150000;0-50000;PhD;Commercial;Panel Truck;VRAI;3-6 pts;15-20 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+311;F;36-54;FAUX;0;0-25000;N/C;Bachelors;Commercial;Minivan;FAUX;0-3 pts;10-15 ans;Highly Rural/ Rural;mai-22;complet;dev_express;A
+312;M;18-36;FAUX;0;25000-50000;150000-200000;High School;Commercial;Sports Car;VRAI;0-3 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+313;M;36-54;FAUX;0;25000-50000;150000-200000;High School;Private;Minivan;FAUX;0-3 pts;5-10 ans;Highly Rural/ Rural;mai-22;complet;dev_premium;B
+314;M;54-72;VRAI;1;25000-50000;150000-200000;Bachelors;Private;Sports Car;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+315;F;54-72;FAUX;1;125000-150000;300000-350000;Masters;Private;Pickup;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+316;M;18-36;FAUX;0;0-25000;0-50000;<High School;Private;Minivan;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+317;M;72-90;FAUX;0;100000-125000;N/C;Masters;Private;Minivan;VRAI;0-3 pts;10-15 ans;Highly Urban/ Urban;avr-22;complet;dev_premium;A
+318;F;0-18;FAUX;0;25000-50000;150000-200000;<High School;Commercial;Panel Truck;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+319;F;36-54;FAUX;4;0-25000;50000-100000;<High School;Private;SUV;FAUX;0-3 pts;5-10 ans;Highly Rural/ Rural;janv-22;complet;dev_express;A
+320;M;72-90;VRAI;1;N/C;0-50000;High School;Private;Pickup;VRAI;0-3 pts;5-10 ans;Highly Rural/ Rural;mars-22;complet;dev_integral;A
+321;F;54-72;FAUX;0;125000-150000;350000-400000;PhD;Private;Van;VRAI;0-3 pts;10-15 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+322;F;90-108;VRAI;2;0-25000;100000-150000;<High School;Private;SUV;FAUX;0-3 pts;0-5 ans;Highly Rural/ Rural;avr-22;complet;dev_integral;A
+323;F;72-90;FAUX;0;75000-100000;200000-250000;High School;Private;Sports Car;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+324;F;36-54;FAUX;1;0-25000;50000-100000;High School;Commercial;Pickup;FAUX;6-9 pts;0-5 ans;Highly Rural/ Rural;mai-22;complet;dev_express;A
+325;F;54-72;FAUX;2;25000-50000;0-50000;High School;Private;SUV;FAUX;6-9 pts;0-5 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+326;M;0-18;FAUX;0;75000-100000;0-50000;High School;Commercial;Minivan;FAUX;3-6 pts;0-5 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+327;F;72-90;FAUX;0;75000-100000;300000-350000;Masters;Private;Minivan;VRAI;0-3 pts;15-20 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+328;F;54-72;FAUX;0;25000-50000;0-50000;Bachelors;Commercial;SUV;FAUX;3-6 pts;10-15 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+329;F;36-54;FAUX;0;25000-50000;0-50000;High School;Private;Minivan;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+330;F;54-72;FAUX;0;25000-50000;150000-200000;High School;Private;SUV;FAUX;0-3 pts;5-10 ans;Highly Rural/ Rural;mai-22;complet;dev_premium;B
+331;F;36-54;FAUX;0;50000-75000;250000-300000;Bachelors;Private;Pickup;VRAI;0-3 pts;5-10 ans;Highly Urban/ Urban;janv-22;complet;dev_vip;B
+332;M;72-90;VRAI;3;0-25000;100000-150000;High School;Private;Minivan;VRAI;0-3 pts;0-5 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+333;M;18-36;FAUX;0;25000-50000;150000-200000;Bachelors;Private;Sports Car;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+334;M;36-54;FAUX;1;25000-50000;150000-200000;Bachelors;Commercial;Van;VRAI;0-3 pts;5-10 ans;Highly Rural/ Rural;avr-22;complet;dev_integral;A
+335;F;54-72;FAUX;3;50000-75000;200000-250000;Bachelors;Commercial;Minivan;FAUX;3-6 pts;5-10 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+336;F;36-54;FAUX;1;75000-100000;250000-300000;Masters;Private;SUV;FAUX;0-3 pts;20-25 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+337;M;0-18;FAUX;0;50000-75000;0-50000;Masters;Private;Sports Car;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+338;M;36-54;FAUX;0;25000-50000;150000-200000;Bachelors;Commercial;Pickup;VRAI;0-3 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+339;M;36-54;FAUX;1;100000-125000;300000-350000;Masters;Commercial;SUV;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+340;F;18-36;VRAI;2;0-25000;0-50000;High School;Private;Sports Car;FAUX;3-6 pts;5-10 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+341;M;54-72;FAUX;3;100000-125000;300000-350000;Masters;Commercial;Panel Truck;FAUX;3-6 pts;5-10 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+342;M;72-90;FAUX;1;25000-50000;150000-200000;High School;Commercial;Sports Car;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+343;M;18-36;FAUX;0;50000-75000;250000-300000;High School;Private;SUV;FAUX;6-9 pts;0-5 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+344;M;72-90;FAUX;0;25000-50000;150000-200000;High School;Commercial;Minivan;FAUX;3-6 pts;5-10 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+345;M;54-72;FAUX;0;100000-125000;0-50000;High School;Commercial;Van;VRAI;0-3 pts;5-10 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+346;M;54-72;FAUX;0;100000-125000;300000-350000;High School;Private;SUV;FAUX;0-3 pts;N/C;Highly Urban/ Urban;mars-22;complet;dev_premium;B
+347;F;18-36;FAUX;0;50000-75000;N/C;Masters;Commercial;Panel Truck;FAUX;9-12 pts;10-15 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+348;F;18-36;FAUX;1;100000-125000;300000-350000;Bachelors;Commercial;Panel Truck;FAUX;3-6 pts;0-5 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+349;F;72-90;FAUX;0;0-25000;50000-100000;Masters;Private;Minivan;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+350;M;18-36;FAUX;0;0-25000;150000-200000;High School;Private;Sports Car;FAUX;0-3 pts;0-5 ans;Highly Rural/ Rural;janv-22;complet;dev_integral;A
+351;F;72-90;VRAI;1;100000-125000;250000-300000;Bachelors;Private;Minivan;FAUX;3-6 pts;10-15 ans;Highly Urban/ Urban;janv-22;complet;dev_vip;B
+352;M;18-36;FAUX;0;50000-75000;150000-200000;Masters;Private;Minivan;VRAI;0-3 pts;10-15 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+353;M;54-72;FAUX;1;75000-100000;250000-300000;Bachelors;Commercial;SUV;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+354;F;72-90;FAUX;0;150000-175000;0-50000;PhD;Private;Sports Car;FAUX;6-9 pts;20-25 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+355;M;72-90;FAUX;3;75000-100000;250000-300000;Bachelors;Commercial;Panel Truck;FAUX;0-3 pts;0-5 ans;Highly Rural/ Rural;mars-22;complet;dev_integral;A
+356;F;36-54;FAUX;4;75000-100000;N/C;Masters;Private;Minivan;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+357;F;36-54;FAUX;0;N/C;150000-200000;Masters;Private;SUV;FAUX;0-3 pts;25-30 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+358;M;18-36;FAUX;1;100000-125000;0-50000;Masters;Commercial;Panel Truck;VRAI;0-3 pts;15-20 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+359;M;0-18;FAUX;1;25000-50000;100000-150000;Masters;Private;Pickup;VRAI;0-3 pts;15-20 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+360;F;36-54;FAUX;0;50000-75000;250000-300000;High School;Commercial;Pickup;VRAI;0-3 pts;10-15 ans;Highly Rural/ Rural;janv-22;complet;dev_integral;A
+361;F;54-72;FAUX;0;50000-75000;200000-250000;Bachelors;Private;Van;FAUX;3-6 pts;10-15 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+362;M;72-90;FAUX;3;25000-50000;100000-150000;High School;Commercial;SUV;FAUX;0-3 pts;5-10 ans;Highly Rural/ Rural;mars-22;complet;dev_premium;B
+363;M;18-36;FAUX;3;25000-50000;0-50000;Bachelors;Commercial;SUV;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+364;F;54-72;FAUX;1;50000-75000;0-50000;High School;Private;Minivan;FAUX;0-3 pts;0-5 ans;Highly Rural/ Rural;janv-22;complet;dev_premium;B
+365;M;18-36;FAUX;1;0-25000;N/C;<High School;Commercial;SUV;FAUX;3-6 pts;0-5 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+366;M;54-72;FAUX;3;N/C;0-50000;<High School;Private;Minivan;VRAI;0-3 pts;N/C;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+367;F;36-54;FAUX;1;25000-50000;100000-150000;<High School;Private;Minivan;VRAI;3-6 pts;5-10 ans;Highly Rural/ Rural;avr-22;complet;dev_integral;A
+368;F;54-72;FAUX;0;125000-150000;350000-400000;PhD;Private;SUV;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+369;F;54-72;FAUX;0;25000-50000;0-50000;High School;Private;Minivan;FAUX;0-3 pts;5-10 ans;Highly Rural/ Rural;janv-22;complet;dev_express;A
+370;M;0-18;FAUX;2;25000-50000;0-50000;Bachelors;Private;Sports Car;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;févr-22;complet;dev_premium;B
+371;F;18-36;VRAI;2;0-25000;50000-100000;Bachelors;Private;SUV;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+372;M;54-72;FAUX;0;N/C;150000-200000;Masters;Private;Minivan;VRAI;0-3 pts;N/C;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+373;M;72-90;FAUX;0;25000-50000;N/C;<High School;Commercial;Panel Truck;FAUX;0-3 pts;5-10 ans;Highly Rural/ Rural;mai-22;complet;dev_integral;A
+374;F;36-54;FAUX;1;0-25000;0-50000;<High School;Private;Minivan;FAUX;3-6 pts;0-5 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+375;F;36-54;FAUX;0;25000-50000;0-50000;High School;Private;SUV;FAUX;3-6 pts;N/C;Highly Urban/ Urban;avr-22;complet;dev_express;A
+376;M;36-54;FAUX;2;25000-50000;150000-200000;High School;Private;SUV;FAUX;3-6 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+377;F;54-72;FAUX;2;25000-50000;100000-150000;Masters;Private;SUV;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;janv-22;complet;dev_premium;B
+378;M;18-36;FAUX;1;50000-75000;200000-250000;Masters;Private;Minivan;FAUX;0-3 pts;20-25 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+379;M;54-72;VRAI;2;25000-50000;150000-200000;High School;Private;Minivan;VRAI;0-3 pts;5-10 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+380;F;54-72;FAUX;0;75000-100000;250000-300000;Masters;Private;Minivan;FAUX;0-3 pts;N/C;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+381;M;0-18;FAUX;2;150000-175000;350000-400000;PhD;Private;Minivan;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+382;M;72-90;FAUX;0;50000-75000;150000-200000;High School;Commercial;Van;VRAI;0-3 pts;5-10 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+383;M;54-72;FAUX;0;125000-150000;0-50000;PhD;Commercial;Van;FAUX;3-6 pts;15-20 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+384;M;72-90;FAUX;0;125000-150000;400000-450000;Masters;Private;Sports Car;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;janv-22;complet;dev_premium;B
+385;M;0-18;FAUX;3;75000-100000;150000-200000;High School;Commercial;SUV;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+386;F;54-72;FAUX;1;25000-50000;100000-150000;High School;Commercial;SUV;FAUX;3-6 pts;0-5 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+387;M;0-18;FAUX;0;125000-150000;0-50000;PhD;Private;Minivan;FAUX;3-6 pts;15-20 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+388;F;72-90;FAUX;0;N/C;150000-200000;Bachelors;Private;Pickup;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+389;M;36-54;FAUX;0;25000-50000;0-50000;<High School;Private;SUV;FAUX;0-3 pts;5-10 ans;Highly Rural/ Rural;janv-22;complet;dev_express;A
+390;M;72-90;FAUX;1;100000-125000;0-50000;Masters;Private;Minivan;VRAI;0-3 pts;15-20 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+391;F;36-54;VRAI;1;100000-125000;300000-350000;Masters;Private;SUV;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+392;F;36-54;FAUX;0;N/C;350000-400000;Masters;Private;Sports Car;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+393;F;36-54;FAUX;0;0-25000;0-50000;High School;Commercial;Minivan;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+394;M;36-54;FAUX;0;100000-125000;300000-350000;Bachelors;Commercial;Panel Truck;VRAI;0-3 pts;5-10 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+395;F;72-90;FAUX;0;100000-125000;300000-350000;PhD;Private;Van;VRAI;0-3 pts;0-5 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+396;M;72-90;FAUX;0;25000-50000;150000-200000;High School;Commercial;Pickup;VRAI;3-6 pts;5-10 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+397;F;36-54;VRAI;4;50000-75000;150000-200000;High School;Commercial;Pickup;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;févr-22;complet;dev_premium;B
+398;M;90-108;FAUX;0;0-25000;0-50000;Bachelors;Private;SUV;FAUX;0-3 pts;15-20 ans;Highly Rural/ Rural;avr-22;complet;dev_premium;A
+399;M;72-90;FAUX;0;0-25000;100000-150000;Masters;Private;SUV;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+400;M;54-72;VRAI;3;75000-100000;0-50000;Bachelors;Commercial;Minivan;FAUX;0-3 pts;5-10 ans;Highly Rural/ Rural;avr-22;complet;dev_integral;A
+401;F;0-18;FAUX;0;N/C;200000-250000;High School;Commercial;Sports Car;FAUX;6-9 pts;0-5 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+402;M;0-18;FAUX;0;125000-150000;N/C;Masters;Commercial;Panel Truck;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+403;M;72-90;FAUX;3;0-25000;0-50000;<High School;Private;SUV;FAUX;6-9 pts;5-10 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+404;M;54-72;FAUX;0;250000-275000;0-50000;PhD;Commercial;Panel Truck;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+405;M;54-72;FAUX;0;200000-225000;0-50000;PhD;Commercial;Panel Truck;VRAI;3-6 pts;15-20 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+406;F;0-18;FAUX;2;50000-75000;0-50000;High School;Private;Minivan;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+407;F;18-36;FAUX;2;75000-100000;250000-300000;High School;Commercial;SUV;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+408;M;0-18;FAUX;2;75000-100000;200000-250000;High School;Private;Minivan;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;avr-22;complet;dev_premium;A
+409;M;36-54;FAUX;0;N/C;250000-300000;PhD;Commercial;Van;VRAI;0-3 pts;10-15 ans;Highly Urban/ Urban;mars-22;complet;dev_premium;A
+410;F;54-72;FAUX;0;0-25000;50000-100000;High School;Private;SUV;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;févr-22;complet;dev_premium;A
+411;M;54-72;FAUX;3;25000-50000;100000-150000;<High School;Commercial;Van;VRAI;0-3 pts;0-5 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+412;M;36-54;FAUX;0;100000-125000;250000-300000;Bachelors;Private;Sports Car;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+413;F;72-90;FAUX;0;75000-100000;300000-350000;Masters;Private;Pickup;FAUX;0-3 pts;N/C;Highly Urban/ Urban;avr-22;complet;dev_premium;B
+414;F;0-18;FAUX;0;0-25000;50000-100000;Bachelors;Private;SUV;FAUX;0-3 pts;15-20 ans;Highly Rural/ Rural;janv-22;complet;dev_premium;B
+415;M;72-90;FAUX;0;75000-100000;0-50000;Masters;Commercial;Pickup;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+416;F;54-72;FAUX;0;25000-50000;100000-150000;Masters;Private;Pickup;FAUX;0-3 pts;N/C;Highly Urban/ Urban;mars-22;complet;dev_express;A
+417;M;36-54;FAUX;0;0-25000;0-50000;<High School;Private;Pickup;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+418;F;36-54;FAUX;3;0-25000;0-50000;<High School;Private;SUV;FAUX;6-9 pts;0-5 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+419;M;72-90;FAUX;0;0-25000;100000-150000;High School;Private;Pickup;FAUX;6-9 pts;0-5 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+420;F;36-54;FAUX;3;N/C;50000-100000;<High School;Commercial;Panel Truck;VRAI;0-3 pts;0-5 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+421;M;54-72;VRAI;2;25000-50000;150000-200000;High School;Commercial;Pickup;VRAI;3-6 pts;0-5 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+422;M;0-18;FAUX;0;75000-100000;0-50000;Masters;Private;Van;FAUX;9-12 pts;15-20 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+423;M;54-72;FAUX;0;0-25000;100000-150000;High School;Private;Minivan;FAUX;0-3 pts;0-5 ans;Highly Rural/ Rural;avr-22;complet;dev_integral;A
+424;M;72-90;FAUX;0;75000-100000;N/C;Bachelors;Commercial;Minivan;VRAI;6-9 pts;5-10 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+425;F;72-90;FAUX;0;75000-100000;N/C;Masters;Private;Sports Car;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+426;M;36-54;FAUX;0;75000-100000;0-50000;Bachelors;Commercial;SUV;FAUX;0-3 pts;5-10 ans;Highly Rural/ Rural;avr-22;complet;dev_premium;B
+427;M;36-54;VRAI;2;0-25000;150000-200000;<High School;Commercial;Minivan;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;mars-22;complet;dev_premium;B
+428;F;54-72;FAUX;0;50000-75000;200000-250000;High School;Private;Minivan;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+429;F;54-72;FAUX;0;100000-125000;300000-350000;Masters;Commercial;Panel Truck;FAUX;6-9 pts;15-20 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+430;F;54-72;VRAI;1;25000-50000;150000-200000;Bachelors;Private;SUV;FAUX;3-6 pts;10-15 ans;Highly Rural/ Rural;avr-22;complet;dev_integral;A
+431;F;36-54;FAUX;0;25000-50000;100000-150000;High School;Commercial;SUV;FAUX;3-6 pts;0-5 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+432;M;18-36;FAUX;0;50000-75000;200000-250000;Bachelors;Commercial;Panel Truck;VRAI;0-3 pts;0-5 ans;Highly Rural/ Rural;mai-22;complet;dev_vip;C
+433;F;90-108;FAUX;0;N/C;150000-200000;Bachelors;Commercial;Pickup;VRAI;0-3 pts;15-20 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+434;F;0-18;FAUX;0;25000-50000;100000-150000;PhD;Private;Minivan;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+435;F;72-90;FAUX;0;50000-75000;150000-200000;High School;Commercial;Panel Truck;VRAI;3-6 pts;N/C;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+436;F;54-72;FAUX;0;0-25000;0-50000;High School;Commercial;Pickup;VRAI;0-3 pts;0-5 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+437;F;72-90;FAUX;0;75000-100000;0-50000;Bachelors;Commercial;Pickup;FAUX;3-6 pts;10-15 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+438;F;54-72;FAUX;4;25000-50000;200000-250000;High School;Private;Van;VRAI;0-3 pts;10-15 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+439;M;72-90;FAUX;3;0-25000;N/C;High School;Commercial;SUV;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;févr-22;complet;dev_premium;B
+440;F;54-72;FAUX;2;0-25000;50000-100000;Bachelors;Private;Sports Car;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+441;F;18-36;FAUX;0;0-25000;0-50000;High School;Commercial;Pickup;VRAI;0-3 pts;0-5 ans;Highly Urban/ Urban;mars-22;complet;dev_premium;A
+442;F;72-90;FAUX;0;N/C;300000-350000;PhD;Private;Pickup;FAUX;0-3 pts;N/C;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+443;F;36-54;FAUX;0;25000-50000;100000-150000;Masters;Commercial;Pickup;VRAI;0-3 pts;15-20 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+444;F;72-90;FAUX;2;50000-75000;150000-200000;Bachelors;Commercial;SUV;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+445;M;72-90;FAUX;0;0-25000;100000-150000;PhD;Private;SUV;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+446;F;72-90;FAUX;0;100000-125000;0-50000;High School;Commercial;Pickup;VRAI;3-6 pts;0-5 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+447;M;36-54;FAUX;1;75000-100000;250000-300000;Masters;Private;SUV;FAUX;3-6 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+448;M;54-72;FAUX;1;0-25000;100000-150000;<High School;Private;SUV;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+449;F;54-72;VRAI;3;0-25000;100000-150000;<High School;Private;SUV;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+450;F;72-90;FAUX;2;50000-75000;0-50000;Masters;Private;Sports Car;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+451;M;18-36;FAUX;0;N/C;200000-250000;<High School;Commercial;Pickup;VRAI;6-9 pts;0-5 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+452;F;90-108;FAUX;2;0-25000;50000-100000;High School;Private;SUV;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+453;F;36-54;FAUX;0;125000-150000;300000-350000;Masters;Private;SUV;FAUX;0-3 pts;20-25 ans;Highly Urban/ Urban;févr-22;complet;dev_premium;B
+454;M;36-54;FAUX;0;50000-75000;0-50000;Bachelors;Commercial;Van;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+455;F;18-36;FAUX;3;25000-50000;100000-150000;High School;Commercial;Minivan;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+456;F;18-36;FAUX;0;75000-100000;250000-300000;PhD;Commercial;Pickup;FAUX;0-3 pts;N/C;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+457;F;36-54;FAUX;0;75000-100000;0-50000;High School;Commercial;Van;VRAI;3-6 pts;0-5 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+458;F;36-54;FAUX;2;0-25000;100000-150000;Bachelors;Private;Sports Car;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;avr-22;complet;dev_premium;B
+459;M;18-36;FAUX;0;150000-175000;400000-450000;Masters;Private;Pickup;VRAI;0-3 pts;0-5 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+460;M;36-54;VRAI;3;75000-100000;300000-350000;Bachelors;Private;Minivan;VRAI;0-3 pts;0-5 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+461;M;54-72;FAUX;0;0-25000;100000-150000;Bachelors;Private;SUV;FAUX;0-3 pts;5-10 ans;Highly Rural/ Rural;mars-22;complet;dev_premium;A
+462;M;36-54;FAUX;0;75000-100000;200000-250000;Bachelors;Private;Sports Car;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+463;M;18-36;FAUX;0;75000-100000;250000-300000;Bachelors;Commercial;Panel Truck;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+464;F;54-72;FAUX;0;50000-75000;100000-150000;Bachelors;Private;Minivan;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+465;M;72-90;VRAI;2;0-25000;100000-150000;<High School;Commercial;Pickup;FAUX;0-3 pts;5-10 ans;Highly Rural/ Rural;mai-22;complet;dev_integral;A
+466;M;72-90;FAUX;0;50000-75000;200000-250000;Bachelors;Commercial;Pickup;VRAI;0-3 pts;10-15 ans;Highly Rural/ Rural;mars-22;complet;dev_express;A
+467;F;0-18;VRAI;2;200000-225000;0-50000;Masters;Commercial;Van;VRAI;0-3 pts;N/C;Highly Urban/ Urban;mai-22;complet;dev_express;A
+468;F;0-18;FAUX;0;75000-100000;0-50000;Masters;Commercial;Panel Truck;FAUX;0-3 pts;N/C;Highly Urban/ Urban;janv-22;complet;dev_premium;B
+469;F;18-36;FAUX;0;0-25000;100000-150000;<High School;Private;SUV;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+470;F;54-72;VRAI;3;0-25000;100000-150000;<High School;Commercial;Minivan;FAUX;6-9 pts;0-5 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+471;F;54-72;FAUX;2;0-25000;0-50000;High School;Private;SUV;FAUX;6-9 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+472;M;18-36;FAUX;0;75000-100000;0-50000;<High School;Private;Minivan;VRAI;0-3 pts;5-10 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+473;M;18-36;FAUX;2;25000-50000;150000-200000;High School;Private;SUV;FAUX;6-9 pts;0-5 ans;Highly Urban/ Urban;janv-22;complet;dev_premium;B
+474;F;0-18;FAUX;1;50000-75000;200000-250000;Masters;Private;Pickup;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+475;M;54-72;FAUX;0;0-25000;0-50000;<High School;Private;SUV;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+476;F;18-36;FAUX;1;0-25000;50000-100000;<High School;Private;SUV;FAUX;6-9 pts;0-5 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+477;F;72-90;FAUX;0;0-25000;0-50000;<High School;Private;SUV;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+478;M;18-36;FAUX;0;100000-125000;0-50000;Masters;Commercial;Panel Truck;VRAI;0-3 pts;15-20 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+479;M;18-36;FAUX;0;150000-175000;350000-400000;PhD;Private;Minivan;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+480;F;54-72;FAUX;0;50000-75000;150000-200000;High School;Commercial;Pickup;VRAI;0-3 pts;5-10 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+481;F;54-72;FAUX;0;0-25000;0-50000;<High School;Private;SUV;FAUX;0-3 pts;0-5 ans;Highly Rural/ Rural;mai-22;complet;dev_integral;A
+482;F;54-72;FAUX;3;0-25000;N/C;High School;Private;Van;VRAI;6-9 pts;0-5 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+483;F;18-36;FAUX;3;50000-75000;0-50000;Bachelors;Private;SUV;FAUX;0-3 pts;N/C;Highly Urban/ Urban;mars-22;complet;dev_express;A
+484;F;36-54;VRAI;2;50000-75000;200000-250000;Masters;Private;Minivan;FAUX;3-6 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_premium;B
+485;F;54-72;FAUX;0;100000-125000;300000-350000;Masters;Private;Sports Car;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+486;F;0-18;FAUX;0;0-25000;100000-150000;<High School;Private;Minivan;FAUX;0-3 pts;0-5 ans;Highly Rural/ Rural;mai-22;complet;dev_integral;A
+487;F;18-36;VRAI;2;25000-50000;150000-200000;<High School;Private;Sports Car;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+488;M;54-72;FAUX;0;25000-50000;100000-150000;High School;Commercial;SUV;FAUX;0-3 pts;0-5 ans;Highly Rural/ Rural;mai-22;complet;dev_premium;A
+489;M;0-18;FAUX;2;25000-50000;150000-200000;High School;Private;Sports Car;FAUX;3-6 pts;10-15 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+490;M;18-36;FAUX;2;25000-50000;0-50000;High School;Commercial;Minivan;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+491;F;54-72;VRAI;3;50000-75000;250000-300000;Bachelors;Private;SUV;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+492;M;72-90;FAUX;1;50000-75000;150000-200000;Bachelors;Private;SUV;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+493;F;72-90;FAUX;0;0-25000;0-50000;High School;Commercial;Pickup;VRAI;0-3 pts;10-15 ans;Highly Rural/ Rural;mars-22;complet;dev_integral;A
+494;M;36-54;FAUX;0;25000-50000;150000-200000;High School;Private;SUV;FAUX;3-6 pts;0-5 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+495;F;0-18;FAUX;0;100000-125000;300000-350000;Masters;Commercial;Panel Truck;VRAI;3-6 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_premium;B
+496;F;18-36;FAUX;0;25000-50000;150000-200000;<High School;Private;Minivan;FAUX;3-6 pts;N/C;Highly Rural/ Rural;mai-22;complet;dev_premium;A
+497;F;72-90;FAUX;0;75000-100000;250000-300000;Bachelors;Commercial;Van;VRAI;0-3 pts;10-15 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+498;M;0-18;VRAI;3;0-25000;100000-150000;<High School;Commercial;Pickup;VRAI;0-3 pts;0-5 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+499;M;36-54;FAUX;0;175000-200000;0-50000;PhD;Private;Pickup;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+500;M;90-108;FAUX;0;0-25000;N/C;PhD;Private;SUV;FAUX;0-3 pts;5-10 ans;Highly Rural/ Rural;mars-22;complet;dev_integral;A
+501;M;18-36;FAUX;0;50000-75000;0-50000;Masters;Private;Pickup;VRAI;0-3 pts;N/C;Highly Urban/ Urban;mai-22;complet;dev_express;A
+502;F;54-72;FAUX;0;100000-125000;0-50000;PhD;Private;Minivan;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+503;F;72-90;FAUX;0;25000-50000;100000-150000;High School;Private;Pickup;FAUX;0-3 pts;10-15 ans;Highly Rural/ Rural;mai-22;complet;dev_premium;B
+504;F;0-18;FAUX;0;125000-150000;400000-450000;Bachelors;Private;SUV;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+505;F;54-72;FAUX;3;25000-50000;100000-150000;High School;Commercial;Pickup;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+506;F;72-90;FAUX;0;100000-125000;0-50000;Bachelors;Commercial;Van;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+507;F;36-54;FAUX;0;50000-75000;0-50000;<High School;Private;Pickup;VRAI;0-3 pts;0-5 ans;Highly Rural/ Rural;mai-22;complet;dev_integral;A
+508;M;36-54;FAUX;0;0-25000;0-50000;High School;Commercial;Minivan;VRAI;0-3 pts;5-10 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+509;F;36-54;FAUX;0;125000-150000;0-50000;PhD;Commercial;Van;VRAI;3-6 pts;10-15 ans;Highly Urban/ Urban;mars-22;complet;dev_premium;B
+510;F;36-54;FAUX;0;125000-150000;0-50000;PhD;Private;Minivan;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+511;F;54-72;FAUX;0;75000-100000;250000-300000;<High School;Private;SUV;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+512;M;54-72;FAUX;3;0-25000;0-50000;High School;Commercial;SUV;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+513;F;18-36;FAUX;0;0-25000;N/C;Bachelors;Commercial;Minivan;VRAI;0-3 pts;15-20 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+514;M;54-72;FAUX;0;25000-50000;100000-150000;High School;Commercial;Pickup;VRAI;0-3 pts;5-10 ans;Highly Rural/ Rural;mai-22;complet;dev_premium;A
+515;M;54-72;FAUX;0;75000-100000;250000-300000;Masters;Private;Minivan;FAUX;0-3 pts;20-25 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+516;M;54-72;FAUX;2;125000-150000;350000-400000;Bachelors;Private;Minivan;VRAI;0-3 pts;5-10 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+517;F;54-72;FAUX;2;75000-100000;200000-250000;Bachelors;Commercial;Minivan;FAUX;6-9 pts;0-5 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+518;F;18-36;FAUX;0;100000-125000;250000-300000;Masters;Commercial;Panel Truck;VRAI;0-3 pts;10-15 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+519;M;18-36;FAUX;0;N/C;0-50000;PhD;Private;Minivan;VRAI;0-3 pts;20-25 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+520;F;72-90;FAUX;0;125000-150000;300000-350000;Bachelors;Commercial;SUV;FAUX;3-6 pts;10-15 ans;Highly Urban/ Urban;avr-22;complet;dev_premium;B
+521;M;54-72;FAUX;0;25000-50000;0-50000;Masters;Private;Minivan;FAUX;0-3 pts;N/C;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+522;F;54-72;FAUX;0;25000-50000;200000-250000;<High School;Private;SUV;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+523;M;0-18;VRAI;2;0-25000;0-50000;<High School;Commercial;Minivan;FAUX;0-3 pts;0-5 ans;Highly Rural/ Rural;avr-22;complet;dev_integral;A
+524;M;0-18;FAUX;0;100000-125000;300000-350000;PhD;Private;Minivan;FAUX;3-6 pts;N/C;Highly Urban/ Urban;mai-22;complet;dev_express;A
+525;F;72-90;FAUX;0;25000-50000;N/C;High School;Private;SUV;FAUX;3-6 pts;5-10 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+526;F;54-72;FAUX;0;0-25000;150000-200000;<High School;Private;Minivan;VRAI;0-3 pts;0-5 ans;Highly Urban/ Urban;mai-22;complet;dev_premium;A
+527;M;18-36;FAUX;0;N/C;200000-250000;High School;Commercial;Pickup;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+528;F;54-72;VRAI;4;25000-50000;150000-200000;Bachelors;Private;SUV;FAUX;9-12 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+529;M;72-90;FAUX;2;75000-100000;250000-300000;Bachelors;Commercial;Pickup;FAUX;0-3 pts;0-5 ans;Highly Rural/ Rural;févr-22;complet;dev_integral;A
+530;M;72-90;FAUX;1;50000-75000;150000-200000;Bachelors;Private;Sports Car;FAUX;0-3 pts;N/C;Highly Urban/ Urban;mai-22;complet;dev_express;A
+531;F;72-90;FAUX;0;25000-50000;150000-200000;Masters;Private;Minivan;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+532;M;54-72;FAUX;1;25000-50000;150000-200000;High School;Commercial;Panel Truck;VRAI;3-6 pts;0-5 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+533;M;36-54;VRAI;2;50000-75000;0-50000;High School;Commercial;Pickup;VRAI;0-3 pts;5-10 ans;Highly Rural/ Rural;mars-22;complet;dev_express;A
+534;M;72-90;FAUX;0;N/C;200000-250000;High School;Commercial;Pickup;VRAI;3-6 pts;0-5 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+535;M;54-72;FAUX;3;25000-50000;150000-200000;Bachelors;Commercial;Pickup;VRAI;0-3 pts;10-15 ans;Highly Rural/ Rural;mai-22;complet;dev_premium;A
+536;M;36-54;FAUX;3;N/C;250000-300000;Bachelors;Private;Pickup;VRAI;3-6 pts;5-10 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+537;F;54-72;FAUX;0;50000-75000;200000-250000;High School;Commercial;SUV;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+538;F;54-72;FAUX;2;N/C;200000-250000;Bachelors;Private;Minivan;VRAI;0-3 pts;N/C;Highly Rural/ Rural;janv-22;complet;dev_express;A
+539;F;36-54;FAUX;1;0-25000;0-50000;High School;Private;Sports Car;FAUX;0-3 pts;5-10 ans;Highly Rural/ Rural;janv-22;complet;dev_integral;A
+540;F;36-54;FAUX;0;0-25000;0-50000;<High School;Private;Pickup;VRAI;0-3 pts;0-5 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+541;M;0-18;FAUX;0;125000-150000;400000-450000;Masters;Private;Pickup;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+542;F;0-18;VRAI;3;75000-100000;0-50000;Masters;Private;Sports Car;FAUX;6-9 pts;15-20 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+543;M;72-90;FAUX;0;50000-75000;0-50000;Bachelors;Private;Minivan;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+544;M;72-90;FAUX;0;25000-50000;150000-200000;Masters;Private;Minivan;VRAI;0-3 pts;15-20 ans;Highly Rural/ Rural;mars-22;complet;dev_integral;A
+545;F;54-72;FAUX;0;50000-75000;250000-300000;High School;Private;Sports Car;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+546;F;72-90;VRAI;1;75000-100000;200000-250000;Masters;Commercial;Panel Truck;VRAI;0-3 pts;10-15 ans;Highly Rural/ Rural;mai-22;complet;dev_integral;A
+547;M;54-72;FAUX;0;25000-50000;150000-200000;Bachelors;Private;Sports Car;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+548;M;18-36;FAUX;0;25000-50000;150000-200000;Bachelors;Private;SUV;FAUX;3-6 pts;5-10 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+549;F;54-72;FAUX;0;50000-75000;200000-250000;PhD;Private;Sports Car;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+550;M;72-90;FAUX;0;175000-200000;450000-500000;PhD;Private;SUV;FAUX;3-6 pts;10-15 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+551;F;18-36;FAUX;2;25000-50000;150000-200000;High School;Private;Pickup;VRAI;0-3 pts;10-15 ans;Highly Rural/ Rural;févr-22;complet;dev_premium;B
+552;M;36-54;FAUX;0;75000-100000;200000-250000;Masters;Private;SUV;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+553;M;54-72;FAUX;0;N/C;550000-600000;PhD;Private;Sports Car;FAUX;0-3 pts;20-25 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+554;M;72-90;FAUX;0;25000-50000;150000-200000;High School;Commercial;SUV;FAUX;3-6 pts;5-10 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+555;M;36-54;FAUX;0;25000-50000;0-50000;High School;Commercial;SUV;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+556;M;90-108;VRAI;2;25000-50000;150000-200000;Bachelors;Commercial;Pickup;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+557;M;0-18;FAUX;0;N/C;0-50000;High School;Private;Minivan;FAUX;0-3 pts;0-5 ans;Highly Rural/ Rural;avr-22;complet;dev_express;A
+558;M;0-18;FAUX;1;50000-75000;200000-250000;Bachelors;Private;Minivan;FAUX;0-3 pts;N/C;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+559;F;54-72;FAUX;0;0-25000;100000-150000;Masters;Commercial;Panel Truck;VRAI;0-3 pts;N/C;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+560;M;72-90;FAUX;0;0-25000;N/C;<High School;Private;Pickup;VRAI;3-6 pts;0-5 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+561;M;0-18;FAUX;0;50000-75000;0-50000;Masters;Private;Minivan;VRAI;0-3 pts;15-20 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+562;M;0-18;FAUX;0;0-25000;0-50000;High School;Private;Sports Car;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+563;M;18-36;FAUX;0;25000-50000;0-50000;Masters;Commercial;Van;VRAI;3-6 pts;15-20 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+564;M;36-54;FAUX;2;0-25000;0-50000;Bachelors;Private;Minivan;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+565;F;18-36;FAUX;2;0-25000;150000-200000;<High School;Private;Van;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+566;M;18-36;VRAI;3;75000-100000;250000-300000;PhD;Private;SUV;FAUX;3-6 pts;15-20 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+567;F;54-72;FAUX;0;0-25000;50000-100000;Bachelors;Private;SUV;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+568;M;0-18;VRAI;2;0-25000;100000-150000;<High School;Private;Pickup;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+569;F;72-90;FAUX;0;175000-200000;450000-500000;PhD;Private;Pickup;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+570;M;18-36;FAUX;0;50000-75000;250000-300000;Bachelors;Private;SUV;FAUX;3-6 pts;10-15 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+571;F;54-72;FAUX;0;150000-175000;450000-500000;PhD;Private;Minivan;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;mars-22;complet;dev_premium;A
+572;F;18-36;FAUX;1;75000-100000;200000-250000;Masters;Commercial;Panel Truck;VRAI;0-3 pts;20-25 ans;Highly Urban/ Urban;avr-22;complet;dev_premium;B
+573;F;54-72;FAUX;0;0-25000;0-50000;Bachelors;Commercial;Pickup;FAUX;3-6 pts;10-15 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+574;F;72-90;FAUX;0;75000-100000;0-50000;Masters;Private;SUV;FAUX;3-6 pts;10-15 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+575;F;0-18;FAUX;0;0-25000;100000-150000;Bachelors;Private;Pickup;VRAI;0-3 pts;15-20 ans;Highly Rural/ Rural;mai-22;complet;dev_express;A
+576;M;72-90;FAUX;3;75000-100000;250000-300000;Bachelors;Commercial;Van;VRAI;3-6 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+577;F;54-72;FAUX;0;50000-75000;0-50000;Masters;Private;Pickup;VRAI;0-3 pts;15-20 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+578;M;0-18;FAUX;0;0-25000;0-50000;Bachelors;Commercial;Minivan;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+579;M;54-72;FAUX;0;0-25000;100000-150000;<High School;Private;Minivan;VRAI;3-6 pts;0-5 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+580;M;36-54;FAUX;0;75000-100000;250000-300000;<High School;Private;SUV;FAUX;6-9 pts;0-5 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+581;M;54-72;FAUX;2;25000-50000;0-50000;<High School;Private;Minivan;VRAI;0-3 pts;0-5 ans;Highly Urban/ Urban;avr-22;complet;dev_premium;A
+582;M;36-54;FAUX;2;0-25000;50000-100000;Bachelors;Commercial;Panel Truck;VRAI;0-3 pts;10-15 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+583;M;54-72;FAUX;2;50000-75000;250000-300000;Bachelors;Private;Minivan;VRAI;0-3 pts;10-15 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+584;M;72-90;FAUX;0;0-25000;0-50000;High School;Private;Minivan;VRAI;0-3 pts;5-10 ans;Highly Rural/ Rural;févr-22;complet;dev_integral;A
+585;F;36-54;FAUX;0;75000-100000;250000-300000;Bachelors;Commercial;Minivan;FAUX;0-3 pts;N/C;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+586;M;72-90;FAUX;0;0-25000;50000-100000;High School;Private;Sports Car;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+587;M;90-108;VRAI;2;50000-75000;200000-250000;Bachelors;Private;SUV;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_premium;B
+588;M;72-90;FAUX;1;N/C;50000-100000;High School;Private;SUV;FAUX;0-3 pts;10-15 ans;Highly Rural/ Rural;mars-22;complet;dev_premium;B
+589;M;54-72;FAUX;0;0-25000;0-50000;<High School;Private;SUV;FAUX;3-6 pts;0-5 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+590;M;36-54;VRAI;2;N/C;50000-100000;High School;Private;SUV;FAUX;0-3 pts;0-5 ans;Highly Rural/ Rural;avr-22;complet;dev_express;A
+591;F;72-90;FAUX;0;25000-50000;150000-200000;<High School;Private;Pickup;VRAI;0-3 pts;0-5 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+592;F;36-54;FAUX;0;125000-150000;350000-400000;Bachelors;Commercial;Panel Truck;VRAI;3-6 pts;10-15 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+593;M;0-18;FAUX;0;100000-125000;0-50000;Masters;Private;Van;VRAI;6-9 pts;N/C;Highly Urban/ Urban;janv-22;complet;dev_express;A
+594;M;0-18;FAUX;4;75000-100000;250000-300000;Masters;Private;SUV;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+595;F;72-90;FAUX;0;50000-75000;0-50000;Bachelors;Private;SUV;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+596;M;72-90;FAUX;0;25000-50000;150000-200000;Masters;Private;Sports Car;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+597;M;36-54;FAUX;0;0-25000;0-50000;<High School;Private;Minivan;VRAI;0-3 pts;5-10 ans;Highly Rural/ Rural;févr-22;complet;dev_integral;A
+598;M;72-90;FAUX;0;175000-200000;450000-500000;PhD;Private;Minivan;VRAI;0-3 pts;10-15 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+599;M;54-72;FAUX;0;0-25000;N/C;Masters;Private;Sports Car;FAUX;0-3 pts;20-25 ans;Highly Rural/ Rural;févr-22;complet;dev_premium;B
+600;F;18-36;FAUX;1;75000-100000;0-50000;Bachelors;Commercial;Pickup;VRAI;6-9 pts;5-10 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+601;M;54-72;VRAI;2;N/C;100000-150000;<High School;Commercial;Pickup;VRAI;0-3 pts;0-5 ans;Highly Rural/ Rural;mars-22;complet;dev_premium;A
+602;M;54-72;VRAI;2;75000-100000;200000-250000;Bachelors;Commercial;SUV;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+603;F;54-72;VRAI;3;0-25000;50000-100000;Bachelors;Private;Minivan;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+604;M;54-72;FAUX;0;250000-275000;600000-650000;PhD;Commercial;Panel Truck;VRAI;0-3 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+605;F;0-18;FAUX;0;75000-100000;250000-300000;Bachelors;Commercial;SUV;FAUX;3-6 pts;0-5 ans;Highly Urban/ Urban;janv-22;complet;dev_premium;B
+606;M;18-36;FAUX;0;N/C;150000-200000;Bachelors;Private;Sports Car;FAUX;0-3 pts;5-10 ans;Highly Rural/ Rural;mai-22;complet;dev_premium;B
+607;F;54-72;FAUX;3;50000-75000;200000-250000;Masters;Private;Minivan;VRAI;0-3 pts;15-20 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+608;M;36-54;FAUX;0;50000-75000;250000-300000;Masters;Commercial;Van;VRAI;0-3 pts;10-15 ans;Highly Urban/ Urban;avr-22;complet;dev_premium;B
+609;M;54-72;FAUX;0;50000-75000;0-50000;High School;Commercial;Minivan;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+610;F;0-18;FAUX;1;25000-50000;0-50000;High School;Commercial;SUV;FAUX;0-3 pts;5-10 ans;Highly Rural/ Rural;mai-22;complet;dev_express;A
+611;M;54-72;FAUX;0;75000-100000;300000-350000;PhD;Private;Minivan;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+612;M;18-36;FAUX;4;125000-150000;0-50000;Masters;Private;Minivan;VRAI;0-3 pts;15-20 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+613;F;36-54;FAUX;0;75000-100000;250000-300000;PhD;Private;SUV;FAUX;0-3 pts;15-20 ans;Highly Rural/ Rural;janv-22;complet;dev_premium;A
+614;M;0-18;FAUX;0;25000-50000;150000-200000;High School;Commercial;Minivan;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;févr-22;complet;dev_premium;B
+615;M;0-18;FAUX;0;150000-175000;450000-500000;PhD;Private;Van;VRAI;0-3 pts;15-20 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+616;F;54-72;FAUX;0;150000-175000;0-50000;Masters;Private;Sports Car;FAUX;3-6 pts;20-25 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+617;F;0-18;FAUX;0;75000-100000;0-50000;Masters;Private;SUV;FAUX;0-3 pts;10-15 ans;Highly Rural/ Rural;janv-22;complet;dev_integral;A
+618;M;54-72;VRAI;2;25000-50000;0-50000;Masters;Private;Sports Car;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+619;F;0-18;FAUX;0;25000-50000;N/C;Bachelors;Commercial;Sports Car;FAUX;0-3 pts;N/C;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+620;F;18-36;FAUX;0;75000-100000;0-50000;High School;Private;Minivan;VRAI;0-3 pts;N/C;Highly Rural/ Rural;avr-22;complet;dev_express;A
+621;M;54-72;FAUX;3;N/C;200000-250000;Bachelors;Private;Minivan;VRAI;3-6 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+622;F;18-36;FAUX;0;175000-200000;0-50000;Masters;Commercial;Panel Truck;VRAI;0-3 pts;15-20 ans;Highly Rural/ Rural;janv-22;complet;dev_express;A
+623;M;18-36;FAUX;0;75000-100000;0-50000;PhD;Private;Sports Car;FAUX;3-6 pts;10-15 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+624;M;18-36;FAUX;0;100000-125000;250000-300000;Bachelors;Private;Pickup;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+625;M;18-36;FAUX;0;50000-75000;150000-200000;Bachelors;Commercial;Sports Car;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+626;M;0-18;FAUX;0;25000-50000;100000-150000;Masters;Private;Van;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+627;M;0-18;FAUX;0;25000-50000;150000-200000;High School;Private;Pickup;FAUX;3-6 pts;0-5 ans;Highly Rural/ Rural;févr-22;complet;dev_premium;B
+628;F;54-72;FAUX;0;100000-125000;300000-350000;High School;Private;Minivan;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+629;M;0-18;FAUX;0;200000-225000;500000-550000;PhD;Private;Minivan;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+630;M;36-54;FAUX;0;75000-100000;250000-300000;Bachelors;Commercial;Minivan;VRAI;0-3 pts;5-10 ans;Highly Urban/ Urban;avr-22;complet;dev_premium;B
+631;M;36-54;FAUX;0;25000-50000;200000-250000;<High School;Private;Sports Car;FAUX;3-6 pts;0-5 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+632;M;18-36;FAUX;0;50000-75000;N/C;Masters;Private;Pickup;VRAI;0-3 pts;5-10 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+633;M;0-18;FAUX;0;125000-150000;300000-350000;Masters;Private;Minivan;VRAI;0-3 pts;15-20 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+634;F;90-108;FAUX;0;50000-75000;200000-250000;Bachelors;Private;Sports Car;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+635;F;0-18;FAUX;2;75000-100000;250000-300000;Bachelors;Commercial;Van;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+636;F;18-36;VRAI;3;50000-75000;N/C;Masters;Commercial;Pickup;FAUX;3-6 pts;10-15 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+637;F;18-36;FAUX;0;75000-100000;250000-300000;Bachelors;Commercial;Panel Truck;FAUX;0-3 pts;N/C;Highly Rural/ Rural;févr-22;complet;dev_integral;A
+638;F;54-72;FAUX;0;25000-50000;0-50000;<High School;Private;SUV;FAUX;0-3 pts;0-5 ans;Highly Rural/ Rural;févr-22;complet;dev_integral;A
+639;F;72-90;FAUX;1;50000-75000;150000-200000;High School;Commercial;Pickup;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+640;F;72-90;FAUX;0;25000-50000;100000-150000;High School;Commercial;Pickup;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;avr-22;complet;dev_premium;A
+641;M;54-72;VRAI;1;0-25000;N/C;<High School;Private;Sports Car;FAUX;3-6 pts;0-5 ans;Highly Urban/ Urban;févr-22;complet;dev_premium;B
+642;F;0-18;FAUX;0;0-25000;50000-100000;<High School;Private;Minivan;VRAI;0-3 pts;5-10 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+643;F;18-36;FAUX;0;25000-50000;150000-200000;High School;Private;SUV;FAUX;0-3 pts;0-5 ans;Highly Rural/ Rural;janv-22;complet;dev_integral;A
+644;M;54-72;VRAI;2;0-25000;50000-100000;<High School;Private;Minivan;VRAI;0-3 pts;5-10 ans;Highly Rural/ Rural;mai-22;complet;dev_integral;A
+645;F;36-54;FAUX;0;150000-175000;0-50000;Masters;Private;Minivan;FAUX;6-9 pts;15-20 ans;Highly Urban/ Urban;avr-22;complet;dev_premium;A
+646;F;18-36;FAUX;0;75000-100000;200000-250000;Bachelors;Private;SUV;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+647;M;72-90;FAUX;1;125000-150000;300000-350000;PhD;Private;Minivan;FAUX;0-3 pts;25-30 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+648;M;54-72;FAUX;0;75000-100000;250000-300000;Bachelors;Commercial;Minivan;FAUX;0-3 pts;5-10 ans;Highly Rural/ Rural;mai-22;complet;dev_integral;A
+649;M;18-36;FAUX;0;175000-200000;500000-550000;Masters;Commercial;Pickup;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+650;F;18-36;FAUX;1;75000-100000;250000-300000;PhD;Private;Sports Car;FAUX;0-3 pts;N/C;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+651;M;54-72;FAUX;0;25000-50000;0-50000;High School;Commercial;SUV;FAUX;0-3 pts;5-10 ans;Highly Rural/ Rural;févr-22;complet;dev_premium;A
+652;F;54-72;FAUX;0;50000-75000;150000-200000;High School;Private;SUV;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+653;M;54-72;FAUX;2;25000-50000;150000-200000;High School;Commercial;Minivan;FAUX;6-9 pts;0-5 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+654;F;36-54;VRAI;2;275000-300000;650000-700000;Masters;Commercial;Panel Truck;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;janv-22;complet;dev_vip;C
+655;M;54-72;FAUX;4;50000-75000;200000-250000;High School;Commercial;SUV;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+656;F;72-90;FAUX;0;0-25000;100000-150000;Bachelors;Private;SUV;FAUX;0-3 pts;0-5 ans;Highly Rural/ Rural;janv-22;complet;dev_integral;A
+657;M;54-72;VRAI;2;25000-50000;150000-200000;<High School;Commercial;Van;VRAI;0-3 pts;0-5 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+658;F;54-72;VRAI;1;N/C;100000-150000;High School;Private;SUV;FAUX;0-3 pts;5-10 ans;Highly Rural/ Rural;janv-22;complet;dev_integral;A
+659;F;72-90;FAUX;0;125000-150000;0-50000;PhD;Private;Minivan;VRAI;0-3 pts;10-15 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+660;F;72-90;FAUX;0;0-25000;N/C;<High School;Commercial;Pickup;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;avr-22;complet;dev_premium;A
+661;F;18-36;FAUX;0;25000-50000;100000-150000;Bachelors;Commercial;Pickup;VRAI;3-6 pts;10-15 ans;Highly Rural/ Rural;mars-22;complet;dev_integral;A
+662;M;72-90;FAUX;0;0-25000;50000-100000;Masters;Private;Van;FAUX;0-3 pts;20-25 ans;Highly Rural/ Rural;mai-22;complet;dev_vip;C
+663;M;36-54;FAUX;1;50000-75000;0-50000;Bachelors;Private;Minivan;FAUX;3-6 pts;15-20 ans;Highly Urban/ Urban;févr-22;complet;dev_premium;B
+664;M;36-54;FAUX;0;25000-50000;150000-200000;High School;Private;Sports Car;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+665;M;36-54;VRAI;2;100000-125000;300000-350000;Masters;Commercial;Pickup;VRAI;3-6 pts;15-20 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+666;M;72-90;VRAI;2;0-25000;50000-100000;High School;Private;SUV;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;janv-22;complet;dev_premium;B
+667;M;0-18;FAUX;0;50000-75000;0-50000;Bachelors;Private;Minivan;VRAI;0-3 pts;10-15 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+668;F;36-54;FAUX;0;25000-50000;0-50000;High School;Commercial;Minivan;FAUX;3-6 pts;10-15 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+669;F;0-18;FAUX;0;25000-50000;150000-200000;High School;Private;SUV;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+670;M;18-36;VRAI;3;100000-125000;300000-350000;Masters;Private;SUV;FAUX;3-6 pts;15-20 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+671;F;18-36;FAUX;3;0-25000;0-50000;<High School;Commercial;SUV;FAUX;3-6 pts;5-10 ans;Highly Rural/ Rural;mai-22;complet;dev_express;A
+672;M;36-54;FAUX;4;0-25000;0-50000;<High School;Private;SUV;FAUX;0-3 pts;0-5 ans;Highly Rural/ Rural;févr-22;complet;dev_integral;A
+673;M;54-72;FAUX;2;50000-75000;200000-250000;<High School;Private;Pickup;FAUX;0-3 pts;0-5 ans;Highly Rural/ Rural;avr-22;complet;dev_express;A
+674;F;36-54;FAUX;0;50000-75000;150000-200000;High School;Commercial;Pickup;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+675;M;72-90;FAUX;0;0-25000;0-50000;High School;Commercial;Minivan;VRAI;0-3 pts;0-5 ans;Highly Rural/ Rural;janv-22;complet;dev_express;A
+676;M;72-90;FAUX;2;75000-100000;200000-250000;Masters;Commercial;Pickup;FAUX;3-6 pts;15-20 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+677;F;54-72;FAUX;2;50000-75000;200000-250000;Bachelors;Commercial;SUV;FAUX;3-6 pts;10-15 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+678;F;18-36;FAUX;0;50000-75000;200000-250000;Masters;Private;Minivan;VRAI;3-6 pts;15-20 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+679;M;54-72;VRAI;4;50000-75000;0-50000;High School;Commercial;SUV;FAUX;3-6 pts;0-5 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+680;M;18-36;FAUX;0;50000-75000;0-50000;<High School;Private;Minivan;VRAI;0-3 pts;0-5 ans;Highly Rural/ Rural;mars-22;complet;dev_integral;A
+681;F;0-18;VRAI;1;25000-50000;0-50000;<High School;Commercial;Van;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+682;M;18-36;FAUX;0;125000-150000;350000-400000;Bachelors;Commercial;Van;VRAI;0-3 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_premium;A
+683;M;54-72;FAUX;0;25000-50000;100000-150000;<High School;Private;SUV;FAUX;0-3 pts;5-10 ans;Highly Rural/ Rural;janv-22;complet;dev_express;A
+684;F;54-72;FAUX;0;25000-50000;150000-200000;<High School;Private;Minivan;VRAI;0-3 pts;0-5 ans;Highly Urban/ Urban;janv-22;complet;dev_premium;B
+685;F;18-36;FAUX;1;25000-50000;0-50000;High School;Commercial;SUV;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+686;F;0-18;FAUX;0;75000-100000;200000-250000;Bachelors;Private;SUV;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+687;M;54-72;FAUX;0;100000-125000;300000-350000;Bachelors;Private;Minivan;VRAI;0-3 pts;0-5 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+688;M;54-72;FAUX;0;75000-100000;200000-250000;Bachelors;Commercial;Van;VRAI;0-3 pts;5-10 ans;Highly Rural/ Rural;févr-22;complet;dev_integral;A
+689;M;72-90;FAUX;0;50000-75000;250000-300000;Bachelors;Commercial;Minivan;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+690;F;18-36;FAUX;1;0-25000;0-50000;Bachelors;Commercial;Pickup;VRAI;0-3 pts;5-10 ans;Highly Urban/ Urban;janv-22;complet;dev_premium;B
+691;M;36-54;FAUX;0;25000-50000;0-50000;PhD;Private;Minivan;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;avr-22;complet;dev_premium;B
+692;M;72-90;FAUX;0;0-25000;150000-200000;Masters;Private;Minivan;FAUX;0-3 pts;20-25 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+693;F;0-18;FAUX;0;50000-75000;0-50000;Bachelors;Commercial;Pickup;VRAI;3-6 pts;5-10 ans;Highly Urban/ Urban;mars-22;complet;dev_premium;B
+694;F;36-54;FAUX;0;75000-100000;250000-300000;Bachelors;Private;SUV;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+695;F;36-54;FAUX;0;25000-50000;200000-250000;<High School;Private;Pickup;VRAI;0-3 pts;0-5 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+696;M;0-18;FAUX;0;0-25000;0-50000;Masters;Private;Minivan;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+697;M;36-54;FAUX;0;50000-75000;0-50000;Bachelors;Private;Minivan;VRAI;0-3 pts;10-15 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+698;M;18-36;FAUX;0;125000-150000;350000-400000;Masters;Private;Minivan;FAUX;0-3 pts;10-15 ans;Highly Rural/ Rural;mai-22;complet;dev_express;A
+699;M;36-54;FAUX;2;50000-75000;0-50000;Bachelors;Private;SUV;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+700;F;54-72;FAUX;2;0-25000;0-50000;<High School;Private;Minivan;FAUX;6-9 pts;0-5 ans;Highly Rural/ Rural;mars-22;complet;dev_express;A
+701;M;54-72;VRAI;3;25000-50000;50000-100000;<High School;Private;SUV;FAUX;0-3 pts;5-10 ans;Highly Rural/ Rural;mai-22;complet;dev_integral;A
+702;F;36-54;FAUX;0;50000-75000;150000-200000;High School;Commercial;Minivan;VRAI;0-3 pts;5-10 ans;Highly Rural/ Rural;févr-22;complet;dev_integral;A
+703;M;72-90;FAUX;0;25000-50000;150000-200000;<High School;Commercial;Panel Truck;FAUX;3-6 pts;5-10 ans;Highly Urban/ Urban;janv-22;complet;dev_vip;B
+704;F;54-72;FAUX;0;0-25000;50000-100000;High School;Private;Minivan;FAUX;3-6 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_premium;B
+705;M;54-72;FAUX;3;25000-50000;150000-200000;High School;Private;SUV;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+706;F;0-18;FAUX;0;N/C;250000-300000;Bachelors;Commercial;Pickup;VRAI;6-9 pts;0-5 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+707;F;54-72;FAUX;0;50000-75000;200000-250000;Bachelors;Commercial;Minivan;FAUX;0-3 pts;0-5 ans;Highly Rural/ Rural;mars-22;complet;dev_express;A
+708;F;18-36;VRAI;2;50000-75000;150000-200000;Masters;Private;Van;VRAI;0-3 pts;N/C;Highly Urban/ Urban;mai-22;complet;dev_express;A
+709;F;0-18;FAUX;0;0-25000;100000-150000;<High School;Private;Minivan;VRAI;0-3 pts;0-5 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+710;F;36-54;FAUX;0;25000-50000;100000-150000;Masters;Commercial;Van;VRAI;3-6 pts;20-25 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+711;M;54-72;FAUX;0;25000-50000;200000-250000;Bachelors;Commercial;SUV;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;avr-22;complet;dev_premium;B
+712;F;0-18;FAUX;0;50000-75000;200000-250000;Masters;Private;Sports Car;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+713;M;54-72;FAUX;0;N/C;N/C;Bachelors;Commercial;Panel Truck;VRAI;0-3 pts;N/C;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+714;F;72-90;VRAI;2;0-25000;0-50000;High School;Commercial;SUV;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;mars-22;complet;dev_premium;B
+715;F;54-72;FAUX;0;125000-150000;0-50000;Masters;Private;Van;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+716;M;72-90;VRAI;4;N/C;0-50000;Bachelors;Commercial;Sports Car;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+717;M;0-18;FAUX;0;75000-100000;300000-350000;PhD;Private;Pickup;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;janv-22;complet;dev_premium;B
+718;M;18-36;FAUX;0;50000-75000;200000-250000;Bachelors;Commercial;Panel Truck;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+719;F;18-36;FAUX;2;75000-100000;250000-300000;Masters;Private;SUV;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+720;M;18-36;FAUX;0;100000-125000;300000-350000;Masters;Private;Sports Car;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+721;M;54-72;FAUX;0;0-25000;50000-100000;Masters;Private;SUV;FAUX;0-3 pts;5-10 ans;Highly Rural/ Rural;mars-22;complet;dev_express;A
+722;M;72-90;FAUX;4;0-25000;0-50000;<High School;Private;SUV;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+723;M;36-54;FAUX;2;N/C;150000-200000;<High School;Private;Minivan;VRAI;0-3 pts;0-5 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+724;M;54-72;FAUX;4;0-25000;N/C;Bachelors;Private;Minivan;VRAI;0-3 pts;10-15 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+725;F;0-18;FAUX;0;50000-75000;200000-250000;High School;Commercial;Van;FAUX;6-9 pts;10-15 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+726;M;72-90;FAUX;0;N/C;200000-250000;Bachelors;Private;Van;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+727;M;0-18;VRAI;2;75000-100000;200000-250000;High School;Commercial;SUV;FAUX;3-6 pts;5-10 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+728;F;0-18;FAUX;0;50000-75000;200000-250000;Masters;Commercial;Pickup;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+729;F;18-36;FAUX;0;50000-75000;200000-250000;High School;Commercial;Sports Car;FAUX;3-6 pts;5-10 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+730;M;54-72;FAUX;4;25000-50000;100000-150000;<High School;Commercial;Pickup;FAUX;0-3 pts;0-5 ans;Highly Rural/ Rural;avr-22;complet;dev_integral;A
+731;M;54-72;FAUX;3;N/C;150000-200000;High School;Private;Minivan;VRAI;3-6 pts;5-10 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+732;M;36-54;FAUX;0;50000-75000;0-50000;Bachelors;Private;SUV;FAUX;3-6 pts;10-15 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+733;F;54-72;FAUX;3;25000-50000;100000-150000;High School;Private;Minivan;FAUX;0-3 pts;N/C;Highly Urban/ Urban;mars-22;complet;dev_premium;A
+734;F;36-54;FAUX;0;100000-125000;300000-350000;Bachelors;Commercial;Van;FAUX;3-6 pts;10-15 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+735;M;0-18;FAUX;0;N/C;150000-200000;<High School;Private;Minivan;VRAI;0-3 pts;0-5 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+736;M;0-18;FAUX;0;50000-75000;0-50000;High School;Commercial;Sports Car;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+737;F;0-18;FAUX;3;0-25000;100000-150000;High School;Private;SUV;FAUX;6-9 pts;0-5 ans;Highly Rural/ Rural;févr-22;complet;dev_express;A
+738;M;54-72;VRAI;3;75000-100000;200000-250000;Bachelors;Commercial;Minivan;VRAI;0-3 pts;5-10 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+739;F;54-72;FAUX;0;50000-75000;200000-250000;High School;Commercial;Panel Truck;VRAI;3-6 pts;0-5 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+740;M;18-36;FAUX;0;25000-50000;150000-200000;Masters;Private;SUV;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;janv-22;complet;dev_premium;A
+741;F;54-72;FAUX;2;125000-150000;0-50000;PhD;Private;SUV;FAUX;3-6 pts;10-15 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+742;M;0-18;FAUX;0;75000-100000;250000-300000;Bachelors;Private;Van;VRAI;0-3 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_premium;B
+743;M;54-72;FAUX;3;0-25000;50000-100000;High School;Private;SUV;FAUX;0-3 pts;0-5 ans;Highly Rural/ Rural;mars-22;complet;dev_integral;A
+744;M;54-72;VRAI;2;50000-75000;200000-250000;High School;Private;Van;FAUX;3-6 pts;10-15 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+745;M;54-72;FAUX;2;75000-100000;250000-300000;Bachelors;Commercial;Minivan;FAUX;3-6 pts;5-10 ans;Highly Rural/ Rural;mars-22;complet;dev_express;A
+746;M;36-54;FAUX;0;25000-50000;200000-250000;High School;Private;Minivan;VRAI;0-3 pts;0-5 ans;Highly Rural/ Rural;janv-22;complet;dev_integral;A
+747;M;54-72;FAUX;0;50000-75000;200000-250000;Bachelors;Commercial;Minivan;VRAI;0-3 pts;5-10 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+748;M;54-72;FAUX;1;0-25000;0-50000;High School;Commercial;SUV;FAUX;0-3 pts;10-15 ans;Highly Rural/ Rural;avr-22;complet;dev_integral;A
+749;M;54-72;FAUX;3;100000-125000;350000-400000;PhD;Private;Minivan;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+750;F;72-90;FAUX;0;75000-100000;200000-250000;Bachelors;Private;SUV;FAUX;3-6 pts;5-10 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+751;M;18-36;FAUX;0;100000-125000;350000-400000;Bachelors;Commercial;SUV;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+752;M;0-18;VRAI;1;0-25000;100000-150000;High School;Commercial;Pickup;FAUX;3-6 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+753;M;72-90;FAUX;0;25000-50000;200000-250000;<High School;Private;SUV;FAUX;3-6 pts;0-5 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+754;F;18-36;FAUX;0;50000-75000;200000-250000;Masters;Private;Minivan;VRAI;0-3 pts;20-25 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+755;M;54-72;FAUX;0;200000-225000;N/C;PhD;Commercial;Panel Truck;VRAI;0-3 pts;5-10 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+756;M;36-54;FAUX;0;25000-50000;150000-200000;<High School;Private;Pickup;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+757;F;36-54;FAUX;1;25000-50000;0-50000;High School;Commercial;Pickup;FAUX;6-9 pts;0-5 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+758;M;54-72;FAUX;0;0-25000;100000-150000;Bachelors;Private;Sports Car;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;avr-22;complet;dev_premium;A
+759;F;18-36;FAUX;0;50000-75000;200000-250000;Masters;Private;Sports Car;VRAI;0-3 pts;10-15 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+760;M;0-18;FAUX;2;100000-125000;250000-300000;PhD;Private;Minivan;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+761;F;36-54;FAUX;0;100000-125000;250000-300000;PhD;Private;SUV;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+762;F;54-72;FAUX;0;75000-100000;250000-300000;PhD;Private;SUV;VRAI;0-3 pts;15-20 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+763;M;0-18;VRAI;3;0-25000;0-50000;High School;Commercial;Pickup;VRAI;0-3 pts;0-5 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+764;F;36-54;FAUX;0;25000-50000;200000-250000;Bachelors;Private;Minivan;VRAI;0-3 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_premium;B
+765;M;0-18;FAUX;3;75000-100000;250000-300000;High School;Commercial;Pickup;VRAI;0-3 pts;10-15 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+766;M;90-108;FAUX;0;75000-100000;250000-300000;Masters;Private;SUV;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+767;F;18-36;FAUX;0;125000-150000;350000-400000;Masters;Private;Pickup;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+768;M;54-72;VRAI;2;0-25000;N/C;High School;Private;Sports Car;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+769;F;54-72;FAUX;3;0-25000;50000-100000;<High School;Commercial;Pickup;FAUX;0-3 pts;5-10 ans;Highly Rural/ Rural;févr-22;complet;dev_integral;A
+770;M;36-54;FAUX;0;75000-100000;150000-200000;Masters;Private;Minivan;VRAI;0-3 pts;10-15 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+771;M;0-18;FAUX;0;75000-100000;250000-300000;Masters;Private;SUV;FAUX;3-6 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+772;M;18-36;FAUX;0;50000-75000;200000-250000;High School;Commercial;Minivan;VRAI;0-3 pts;0-5 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+773;F;36-54;FAUX;0;50000-75000;N/C;Bachelors;Private;Minivan;VRAI;0-3 pts;5-10 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+774;M;54-72;FAUX;0;50000-75000;150000-200000;Masters;Commercial;Pickup;FAUX;3-6 pts;15-20 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+775;M;18-36;FAUX;0;50000-75000;150000-200000;Bachelors;Commercial;Van;VRAI;0-3 pts;5-10 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+776;M;54-72;FAUX;0;25000-50000;150000-200000;Masters;Private;SUV;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+777;M;54-72;FAUX;0;50000-75000;N/C;Bachelors;Commercial;Pickup;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+778;M;54-72;FAUX;0;50000-75000;N/C;Bachelors;Commercial;Pickup;FAUX;3-6 pts;0-5 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+779;F;18-36;FAUX;0;75000-100000;200000-250000;Masters;Commercial;Panel Truck;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+780;M;54-72;FAUX;1;N/C;300000-350000;Masters;Commercial;Panel Truck;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+781;F;36-54;FAUX;2;100000-125000;300000-350000;Bachelors;Commercial;SUV;FAUX;0-3 pts;0-5 ans;Highly Rural/ Rural;janv-22;complet;dev_integral;A
+782;M;54-72;FAUX;0;50000-75000;200000-250000;Masters;Private;Minivan;FAUX;0-3 pts;15-20 ans;Highly Rural/ Rural;janv-22;complet;dev_premium;B
+783;F;0-18;VRAI;2;75000-100000;250000-300000;Masters;Private;SUV;FAUX;3-6 pts;20-25 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+784;M;36-54;FAUX;0;150000-175000;400000-450000;PhD;Private;Minivan;VRAI;0-3 pts;10-15 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+785;M;36-54;FAUX;0;175000-200000;450000-500000;Masters;Private;Minivan;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;janv-22;complet;dev_premium;B
+786;M;54-72;FAUX;0;0-25000;100000-150000;Bachelors;Commercial;Pickup;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+787;F;54-72;FAUX;0;50000-75000;250000-300000;Bachelors;Commercial;Minivan;FAUX;0-3 pts;0-5 ans;Highly Rural/ Rural;avr-22;complet;dev_premium;A
+788;M;54-72;FAUX;0;75000-100000;250000-300000;Masters;Private;Pickup;VRAI;3-6 pts;15-20 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+789;M;72-90;FAUX;0;50000-75000;150000-200000;Bachelors;Commercial;Panel Truck;VRAI;0-3 pts;15-20 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+790;F;72-90;FAUX;0;50000-75000;150000-200000;High School;Private;Minivan;VRAI;0-3 pts;0-5 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+791;F;72-90;FAUX;2;0-25000;50000-100000;<High School;Private;SUV;FAUX;3-6 pts;0-5 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+792;M;54-72;FAUX;0;50000-75000;0-50000;Masters;Commercial;Pickup;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+793;M;72-90;FAUX;2;25000-50000;150000-200000;Bachelors;Commercial;Van;VRAI;0-3 pts;10-15 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+794;M;54-72;FAUX;0;N/C;200000-250000;Bachelors;Commercial;SUV;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+795;F;54-72;VRAI;2;0-25000;50000-100000;Bachelors;Private;SUV;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;févr-22;complet;dev_premium;B
+796;M;54-72;FAUX;0;75000-100000;250000-300000;Bachelors;Commercial;Sports Car;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+797;M;54-72;FAUX;0;50000-75000;150000-200000;Bachelors;Private;Minivan;VRAI;0-3 pts;10-15 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+798;F;36-54;FAUX;0;0-25000;100000-150000;Bachelors;Private;SUV;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+799;F;54-72;FAUX;3;125000-150000;350000-400000;Bachelors;Private;Minivan;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+800;M;72-90;FAUX;0;75000-100000;200000-250000;Masters;Private;Pickup;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+801;F;72-90;FAUX;0;25000-50000;200000-250000;Bachelors;Private;Minivan;VRAI;0-3 pts;5-10 ans;Highly Rural/ Rural;janv-22;complet;dev_express;A
+802;F;54-72;FAUX;3;0-25000;0-50000;<High School;Private;Minivan;VRAI;0-3 pts;0-5 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+803;M;54-72;FAUX;3;0-25000;0-50000;Bachelors;Commercial;Sports Car;FAUX;6-9 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+804;F;18-36;FAUX;0;N/C;150000-200000;<High School;Private;Van;FAUX;3-6 pts;0-5 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+805;F;0-18;FAUX;0;0-25000;100000-150000;High School;Private;Pickup;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+806;M;0-18;FAUX;3;N/C;0-50000;High School;Commercial;SUV;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;févr-22;complet;dev_premium;B
+807;F;54-72;FAUX;0;N/C;350000-400000;PhD;Private;SUV;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+808;M;54-72;FAUX;0;25000-50000;50000-100000;High School;Commercial;Panel Truck;VRAI;6-9 pts;10-15 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+809;M;72-90;FAUX;2;175000-200000;450000-500000;PhD;Private;SUV;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+810;M;54-72;FAUX;2;0-25000;N/C;Bachelors;Commercial;SUV;FAUX;0-3 pts;5-10 ans;Highly Rural/ Rural;janv-22;complet;dev_integral;A
+811;M;36-54;FAUX;0;50000-75000;N/C;Bachelors;Commercial;Panel Truck;VRAI;0-3 pts;0-5 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+812;F;36-54;FAUX;0;50000-75000;200000-250000;Masters;Commercial;Panel Truck;VRAI;0-3 pts;15-20 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+813;F;72-90;FAUX;2;25000-50000;0-50000;Bachelors;Private;Minivan;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+814;M;54-72;FAUX;3;0-25000;0-50000;Bachelors;Private;Pickup;VRAI;0-3 pts;5-10 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+815;M;72-90;FAUX;2;50000-75000;200000-250000;Bachelors;Private;SUV;FAUX;3-6 pts;5-10 ans;Highly Rural/ Rural;janv-22;complet;dev_express;A
+816;F;54-72;FAUX;0;50000-75000;150000-200000;Masters;Private;Minivan;VRAI;0-3 pts;20-25 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+817;M;18-36;FAUX;0;75000-100000;250000-300000;PhD;Commercial;Pickup;FAUX;0-3 pts;20-25 ans;Highly Urban/ Urban;mars-22;complet;dev_premium;B
+818;M;0-18;VRAI;3;75000-100000;250000-300000;Masters;Commercial;Van;VRAI;0-3 pts;10-15 ans;Highly Urban/ Urban;avr-22;complet;dev_premium;B
+819;F;54-72;VRAI;3;25000-50000;0-50000;<High School;Private;Pickup;FAUX;3-6 pts;0-5 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+820;M;72-90;FAUX;3;0-25000;100000-150000;High School;Commercial;Minivan;VRAI;6-9 pts;10-15 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+821;F;54-72;FAUX;0;75000-100000;0-50000;Masters;Private;Van;FAUX;3-6 pts;10-15 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+822;F;72-90;FAUX;2;25000-50000;100000-150000;<High School;Private;SUV;FAUX;3-6 pts;0-5 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+823;F;18-36;FAUX;4;0-25000;0-50000;Bachelors;Commercial;SUV;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+824;M;54-72;FAUX;2;125000-150000;350000-400000;Masters;Private;Minivan;FAUX;6-9 pts;15-20 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+825;M;72-90;FAUX;4;0-25000;0-50000;High School;Commercial;SUV;FAUX;9-12 pts;0-5 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+826;M;54-72;FAUX;0;100000-125000;300000-350000;Masters;Private;SUV;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+827;F;54-72;FAUX;0;175000-200000;450000-500000;PhD;Commercial;Van;FAUX;3-6 pts;5-10 ans;Highly Urban/ Urban;janv-22;complet;dev_premium;A
+828;F;0-18;FAUX;0;N/C;250000-300000;Masters;Private;Minivan;FAUX;3-6 pts;15-20 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+829;F;54-72;FAUX;0;75000-100000;350000-400000;Masters;Private;Minivan;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+830;M;54-72;FAUX;0;25000-50000;200000-250000;Masters;Commercial;Van;VRAI;0-3 pts;10-15 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+831;F;18-36;FAUX;0;25000-50000;0-50000;High School;Private;Minivan;VRAI;0-3 pts;0-5 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+832;M;72-90;VRAI;3;50000-75000;0-50000;Bachelors;Private;SUV;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+833;F;36-54;FAUX;0;25000-50000;0-50000;High School;Commercial;Pickup;FAUX;3-6 pts;N/C;Highly Rural/ Rural;mai-22;complet;dev_express;A
+834;F;0-18;FAUX;0;0-25000;0-50000;<High School;Private;SUV;FAUX;0-3 pts;0-5 ans;Highly Rural/ Rural;janv-22;complet;dev_integral;A
+835;M;36-54;FAUX;0;N/C;N/C;PhD;Private;SUV;FAUX;3-6 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+836;M;0-18;FAUX;0;0-25000;50000-100000;<High School;Private;SUV;FAUX;3-6 pts;0-5 ans;Highly Urban/ Urban;mai-22;complet;dev_premium;B
+837;F;54-72;FAUX;0;75000-100000;0-50000;PhD;Commercial;Van;VRAI;3-6 pts;15-20 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+838;M;54-72;FAUX;0;75000-100000;250000-300000;Masters;Private;SUV;FAUX;6-9 pts;15-20 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+839;M;0-18;FAUX;0;150000-175000;400000-450000;PhD;Private;Pickup;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;févr-22;complet;dev_premium;B
+840;F;54-72;FAUX;0;50000-75000;250000-300000;High School;Commercial;Van;VRAI;3-6 pts;0-5 ans;Highly Urban/ Urban;mai-22;complet;dev_premium;B
+841;F;36-54;VRAI;1;0-25000;0-50000;High School;Private;SUV;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;mars-22;complet;dev_vip;C
+842;F;0-18;FAUX;0;75000-100000;N/C;Masters;Commercial;Panel Truck;VRAI;0-3 pts;10-15 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+843;M;18-36;FAUX;0;0-25000;50000-100000;High School;Private;Minivan;FAUX;3-6 pts;0-5 ans;Highly Rural/ Rural;mai-22;complet;dev_integral;A
+844;F;72-90;FAUX;2;0-25000;100000-150000;<High School;Commercial;Panel Truck;VRAI;3-6 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+845;F;18-36;VRAI;1;100000-125000;0-50000;High School;Commercial;Pickup;FAUX;0-3 pts;5-10 ans;Highly Rural/ Rural;mars-22;complet;dev_integral;A
+846;F;36-54;FAUX;0;150000-175000;0-50000;PhD;Commercial;Panel Truck;VRAI;0-3 pts;10-15 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+847;M;54-72;FAUX;0;25000-50000;100000-150000;High School;Private;Van;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+848;F;72-90;FAUX;1;125000-150000;0-50000;PhD;Private;SUV;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;mai-22;complet;dev_premium;B
+849;M;54-72;FAUX;0;25000-50000;150000-200000;High School;Commercial;Pickup;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;avr-22;complet;dev_premium;B
+850;F;18-36;FAUX;0;25000-50000;150000-200000;Bachelors;Private;SUV;FAUX;6-9 pts;10-15 ans;Highly Urban/ Urban;mars-22;complet;dev_premium;B
+851;F;36-54;FAUX;0;200000-225000;500000-550000;PhD;Private;Minivan;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+852;F;54-72;FAUX;0;125000-150000;350000-400000;Masters;Commercial;Pickup;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;janv-22;complet;dev_premium;B
+853;F;0-18;FAUX;0;N/C;N/C;High School;Commercial;SUV;FAUX;3-6 pts;5-10 ans;Highly Urban/ Urban;mars-22;complet;dev_vip;B
+854;M;90-108;FAUX;0;50000-75000;150000-200000;High School;Private;Sports Car;FAUX;3-6 pts;10-15 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+855;F;72-90;FAUX;3;0-25000;50000-100000;Bachelors;Private;Sports Car;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+856;F;72-90;FAUX;0;25000-50000;100000-150000;Bachelors;Private;SUV;FAUX;3-6 pts;N/C;Highly Urban/ Urban;févr-22;complet;dev_premium;B
+857;M;72-90;FAUX;1;50000-75000;0-50000;High School;Commercial;Panel Truck;VRAI;0-3 pts;5-10 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+858;M;36-54;VRAI;2;100000-125000;200000-250000;High School;Private;SUV;FAUX;3-6 pts;5-10 ans;Highly Rural/ Rural;janv-22;complet;dev_premium;A
+859;F;36-54;FAUX;0;175000-200000;0-50000;PhD;Commercial;Panel Truck;FAUX;3-6 pts;10-15 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+860;M;54-72;FAUX;0;125000-150000;350000-400000;Bachelors;Commercial;Van;FAUX;3-6 pts;10-15 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+861;F;54-72;FAUX;0;50000-75000;0-50000;<High School;Private;SUV;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+862;F;54-72;FAUX;0;25000-50000;0-50000;PhD;Private;Minivan;FAUX;3-6 pts;15-20 ans;Highly Rural/ Rural;févr-22;complet;dev_integral;A
+863;M;0-18;VRAI;3;0-25000;0-50000;<High School;Private;SUV;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+864;M;36-54;FAUX;0;0-25000;0-50000;High School;Private;Pickup;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+865;F;0-18;FAUX;0;175000-200000;0-50000;Masters;Private;Minivan;VRAI;0-3 pts;15-20 ans;Highly Urban/ Urban;févr-22;complet;dev_premium;B
+866;M;72-90;FAUX;4;50000-75000;200000-250000;Bachelors;Private;Pickup;VRAI;3-6 pts;5-10 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+867;M;36-54;FAUX;0;50000-75000;N/C;Bachelors;Private;SUV;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+868;F;54-72;FAUX;0;75000-100000;200000-250000;Masters;Private;SUV;FAUX;3-6 pts;N/C;Highly Urban/ Urban;janv-22;complet;dev_premium;B
+869;M;36-54;FAUX;0;50000-75000;200000-250000;Bachelors;Commercial;Van;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+870;M;72-90;FAUX;0;0-25000;0-50000;High School;Commercial;Pickup;FAUX;3-6 pts;5-10 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+871;F;90-108;FAUX;2;25000-50000;0-50000;Masters;Private;Minivan;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+872;M;54-72;FAUX;0;0-25000;N/C;High School;Commercial;SUV;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+873;M;54-72;FAUX;0;75000-100000;250000-300000;Bachelors;Commercial;SUV;VRAI;0-3 pts;10-15 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+874;F;0-18;FAUX;0;50000-75000;0-50000;Bachelors;Commercial;SUV;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+875;M;72-90;FAUX;0;25000-50000;150000-200000;Bachelors;Commercial;Pickup;VRAI;6-9 pts;5-10 ans;Highly Urban/ Urban;avr-22;complet;dev_premium;B
+876;F;36-54;FAUX;0;75000-100000;0-50000;Bachelors;Private;Minivan;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+877;M;54-72;FAUX;0;125000-150000;300000-350000;PhD;Private;Minivan;FAUX;6-9 pts;20-25 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+878;M;36-54;FAUX;0;0-25000;0-50000;<High School;Private;Van;VRAI;3-6 pts;0-5 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+879;F;72-90;FAUX;2;50000-75000;200000-250000;High School;Private;Sports Car;FAUX;0-3 pts;N/C;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+880;M;72-90;FAUX;0;50000-75000;150000-200000;High School;Commercial;Pickup;VRAI;0-3 pts;0-5 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+881;M;36-54;VRAI;2;25000-50000;150000-200000;<High School;Private;Sports Car;FAUX;0-3 pts;0-5 ans;Highly Rural/ Rural;avr-22;complet;dev_express;A
+882;M;36-54;FAUX;0;75000-100000;0-50000;Bachelors;Private;Pickup;VRAI;0-3 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+883;M;54-72;FAUX;0;25000-50000;150000-200000;High School;Commercial;Minivan;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+884;F;36-54;FAUX;0;75000-100000;300000-350000;Masters;Private;Minivan;VRAI;0-3 pts;5-10 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+885;F;36-54;FAUX;0;125000-150000;350000-400000;Masters;Private;Minivan;FAUX;0-3 pts;10-15 ans;Highly Rural/ Rural;janv-22;complet;dev_express;A
+886;F;54-72;FAUX;0;50000-75000;150000-200000;High School;Commercial;SUV;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+887;F;72-90;FAUX;0;N/C;200000-250000;Masters;Commercial;Pickup;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+888;M;54-72;FAUX;0;0-25000;0-50000;High School;Commercial;Pickup;FAUX;3-6 pts;5-10 ans;Highly Urban/ Urban;févr-22;complet;dev_premium;B
+889;F;72-90;FAUX;0;0-25000;0-50000;<High School;Private;Minivan;VRAI;0-3 pts;0-5 ans;Highly Rural/ Rural;févr-22;complet;dev_integral;A
+890;M;54-72;FAUX;3;0-25000;0-50000;High School;Private;Pickup;FAUX;0-3 pts;5-10 ans;Highly Rural/ Rural;févr-22;complet;dev_express;A
+891;M;72-90;FAUX;0;75000-100000;250000-300000;Bachelors;Private;Pickup;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+892;F;36-54;FAUX;0;N/C;0-50000;<High School;Private;SUV;FAUX;0-3 pts;5-10 ans;Highly Rural/ Rural;janv-22;complet;dev_express;A
+893;M;54-72;FAUX;0;50000-75000;200000-250000;Masters;Private;Minivan;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+894;M;18-36;FAUX;0;25000-50000;200000-250000;High School;Commercial;SUV;VRAI;0-3 pts;0-5 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+895;F;72-90;FAUX;0;25000-50000;150000-200000;Masters;Commercial;Panel Truck;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+896;F;54-72;FAUX;0;100000-125000;300000-350000;Masters;Private;Minivan;FAUX;0-3 pts;20-25 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+897;F;0-18;FAUX;1;75000-100000;0-50000;Masters;Commercial;Panel Truck;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;févr-22;complet;dev_premium;B
+898;M;72-90;FAUX;4;25000-50000;0-50000;High School;Private;Sports Car;FAUX;3-6 pts;5-10 ans;Highly Rural/ Rural;janv-22;complet;dev_integral;A
+899;F;54-72;FAUX;0;100000-125000;400000-450000;Masters;Private;Minivan;VRAI;0-3 pts;15-20 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+900;M;72-90;FAUX;4;0-25000;100000-150000;Bachelors;Private;Sports Car;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;mai-22;complet;dev_premium;B
+901;M;36-54;FAUX;0;N/C;200000-250000;High School;Commercial;Sports Car;FAUX;3-6 pts;0-5 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+902;F;36-54;FAUX;1;0-25000;50000-100000;Bachelors;Private;Sports Car;VRAI;9-12 pts;0-5 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+903;F;18-36;FAUX;0;75000-100000;300000-350000;Bachelors;Private;SUV;FAUX;0-3 pts;0-5 ans;Highly Rural/ Rural;mai-22;complet;dev_express;A
+904;F;0-18;VRAI;2;25000-50000;150000-200000;High School;Commercial;Minivan;VRAI;0-3 pts;10-15 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+905;M;18-36;FAUX;0;75000-100000;250000-300000;High School;Private;SUV;FAUX;3-6 pts;0-5 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+906;F;36-54;FAUX;0;25000-50000;100000-150000;<High School;Private;Minivan;FAUX;0-3 pts;0-5 ans;Highly Rural/ Rural;janv-22;complet;dev_vip;B
+907;M;36-54;FAUX;0;75000-100000;250000-300000;Bachelors;Private;Minivan;VRAI;0-3 pts;10-15 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+908;F;36-54;FAUX;2;0-25000;0-50000;High School;Private;Pickup;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+909;M;18-36;VRAI;4;0-25000;0-50000;High School;Commercial;SUV;FAUX;0-3 pts;5-10 ans;Highly Rural/ Rural;févr-22;complet;dev_express;A
+910;F;18-36;FAUX;0;100000-125000;250000-300000;Masters;Commercial;Van;VRAI;0-3 pts;N/C;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+911;F;18-36;VRAI;1;50000-75000;200000-250000;Masters;Private;Pickup;VRAI;0-3 pts;10-15 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+912;M;72-90;FAUX;2;25000-50000;150000-200000;<High School;Commercial;Pickup;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+913;F;0-18;FAUX;1;50000-75000;200000-250000;Bachelors;Commercial;Pickup;VRAI;0-3 pts;0-5 ans;Highly Urban/ Urban;avr-22;complet;dev_premium;B
+914;F;36-54;FAUX;0;50000-75000;0-50000;High School;Commercial;SUV;FAUX;0-3 pts;5-10 ans;Highly Rural/ Rural;mars-22;complet;dev_integral;A
+915;F;18-36;FAUX;0;75000-100000;250000-300000;Masters;Private;Sports Car;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+916;M;54-72;FAUX;2;0-25000;50000-100000;High School;Commercial;SUV;FAUX;3-6 pts;5-10 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+917;F;72-90;FAUX;0;0-25000;0-50000;High School;Commercial;Pickup;VRAI;0-3 pts;0-5 ans;Highly Rural/ Rural;févr-22;complet;dev_integral;A
+918;F;36-54;FAUX;0;100000-125000;300000-350000;Bachelors;Commercial;Sports Car;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+919;M;36-54;FAUX;2;50000-75000;0-50000;Bachelors;Private;Minivan;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+920;F;72-90;VRAI;1;50000-75000;200000-250000;Bachelors;Private;Sports Car;FAUX;3-6 pts;10-15 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+921;M;54-72;FAUX;0;50000-75000;0-50000;High School;Commercial;SUV;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+922;M;72-90;VRAI;2;50000-75000;200000-250000;Bachelors;Private;SUV;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+923;F;54-72;VRAI;2;0-25000;0-50000;<High School;Private;Minivan;VRAI;0-3 pts;N/C;Highly Urban/ Urban;mai-22;complet;dev_express;A
+924;F;72-90;FAUX;1;175000-200000;0-50000;PhD;Commercial;Panel Truck;VRAI;0-3 pts;5-10 ans;Highly Urban/ Urban;févr-22;complet;dev_premium;A
+925;F;18-36;VRAI;1;25000-50000;150000-200000;<High School;Private;Minivan;VRAI;0-3 pts;5-10 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+926;M;0-18;FAUX;1;50000-75000;250000-300000;High School;Private;SUV;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;mars-22;complet;dev_premium;B
+927;F;36-54;FAUX;0;0-25000;N/C;High School;Commercial;SUV;FAUX;0-3 pts;5-10 ans;Highly Rural/ Rural;mai-22;complet;dev_express;A
+928;F;54-72;FAUX;1;0-25000;0-50000;<High School;Private;Sports Car;FAUX;6-9 pts;0-5 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+929;M;0-18;FAUX;1;0-25000;150000-200000;High School;Commercial;SUV;FAUX;3-6 pts;10-15 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+930;M;72-90;FAUX;0;75000-100000;N/C;Bachelors;Commercial;Minivan;VRAI;9-12 pts;5-10 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+931;M;36-54;FAUX;0;25000-50000;200000-250000;Masters;Commercial;Van;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;avr-22;complet;dev_premium;A
+932;M;36-54;FAUX;0;0-25000;150000-200000;High School;Commercial;Panel Truck;FAUX;0-3 pts;0-5 ans;Highly Rural/ Rural;avr-22;complet;dev_express;A
+933;M;0-18;FAUX;0;50000-75000;200000-250000;Bachelors;Commercial;Pickup;VRAI;0-3 pts;10-15 ans;Highly Rural/ Rural;mars-22;complet;dev_integral;A
+934;F;36-54;FAUX;0;75000-100000;250000-300000;Bachelors;Commercial;Panel Truck;VRAI;0-3 pts;5-10 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+935;F;72-90;FAUX;0;175000-200000;0-50000;PhD;Private;Minivan;FAUX;0-3 pts;N/C;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+936;M;54-72;VRAI;2;75000-100000;0-50000;Bachelors;Commercial;Minivan;FAUX;3-6 pts;0-5 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+937;M;72-90;FAUX;0;50000-75000;200000-250000;Bachelors;Commercial;Minivan;FAUX;3-6 pts;10-15 ans;Highly Urban/ Urban;févr-22;complet;dev_premium;A
+938;F;72-90;FAUX;0;50000-75000;150000-200000;Masters;Private;Minivan;FAUX;0-3 pts;N/C;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+939;M;18-36;FAUX;2;0-25000;100000-150000;<High School;Private;Minivan;VRAI;0-3 pts;N/C;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+940;M;54-72;FAUX;0;25000-50000;150000-200000;High School;Private;Van;VRAI;0-3 pts;10-15 ans;Highly Urban/ Urban;janv-22;complet;dev_premium;B
+941;M;36-54;FAUX;0;100000-125000;300000-350000;High School;Commercial;SUV;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+942;F;0-18;VRAI;3;100000-125000;300000-350000;Bachelors;Commercial;Panel Truck;VRAI;3-6 pts;0-5 ans;Highly Urban/ Urban;févr-22;complet;dev_premium;B
+943;M;54-72;FAUX;1;25000-50000;200000-250000;Bachelors;Private;SUV;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+944;F;54-72;FAUX;0;150000-175000;0-50000;Masters;Commercial;Pickup;FAUX;0-3 pts;N/C;Highly Urban/ Urban;mars-22;complet;dev_express;A
+945;F;72-90;FAUX;0;50000-75000;0-50000;Bachelors;Private;Sports Car;FAUX;3-6 pts;5-10 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+946;F;0-18;FAUX;0;50000-75000;0-50000;Masters;Private;SUV;FAUX;6-9 pts;15-20 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+947;F;0-18;FAUX;1;N/C;50000-100000;<High School;Private;Minivan;VRAI;0-3 pts;5-10 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+948;M;18-36;FAUX;0;50000-75000;150000-200000;Bachelors;Private;Minivan;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;avr-22;complet;dev_premium;B
+949;F;54-72;FAUX;0;125000-150000;350000-400000;Masters;Commercial;Panel Truck;FAUX;3-6 pts;10-15 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+950;M;36-54;FAUX;0;100000-125000;300000-350000;Masters;Private;Minivan;VRAI;0-3 pts;15-20 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+951;M;54-72;VRAI;3;100000-125000;300000-350000;Bachelors;Private;SUV;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;mai-22;complet;dev_premium;B
+952;F;72-90;VRAI;1;25000-50000;150000-200000;Masters;Private;SUV;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+953;M;18-36;FAUX;0;0-25000;50000-100000;<High School;Private;Sports Car;FAUX;0-3 pts;5-10 ans;Highly Rural/ Rural;mai-22;complet;dev_integral;A
+954;M;72-90;FAUX;0;300000-325000;0-50000;PhD;Private;Minivan;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+955;M;0-18;FAUX;1;0-25000;0-50000;High School;Private;SUV;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+956;M;36-54;VRAI;2;0-25000;100000-150000;Bachelors;Private;SUV;FAUX;3-6 pts;10-15 ans;Highly Rural/ Rural;avr-22;complet;dev_vip;B
+957;F;54-72;FAUX;0;N/C;0-50000;Bachelors;Private;SUV;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+958;M;54-72;VRAI;1;25000-50000;100000-150000;<High School;Commercial;Pickup;VRAI;0-3 pts;5-10 ans;Highly Urban/ Urban;févr-22;complet;dev_premium;A
+959;F;36-54;FAUX;0;50000-75000;200000-250000;PhD;Commercial;Panel Truck;VRAI;0-3 pts;15-20 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+960;M;0-18;FAUX;1;0-25000;150000-200000;High School;Private;Sports Car;FAUX;0-3 pts;0-5 ans;Highly Rural/ Rural;avr-22;complet;dev_premium;B
+961;M;54-72;FAUX;0;0-25000;100000-150000;Bachelors;Commercial;Minivan;VRAI;0-3 pts;5-10 ans;Highly Urban/ Urban;févr-22;complet;dev_premium;B
+962;F;54-72;FAUX;0;25000-50000;N/C;High School;Commercial;Pickup;VRAI;6-9 pts;0-5 ans;Highly Urban/ Urban;févr-22;complet;dev_premium;A
+963;M;54-72;FAUX;0;100000-125000;0-50000;PhD;Private;SUV;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;mai-22;complet;dev_premium;A
+964;F;54-72;VRAI;2;175000-200000;400000-450000;Masters;Private;Minivan;FAUX;0-3 pts;20-25 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+965;F;54-72;FAUX;0;50000-75000;200000-250000;<High School;Private;Minivan;FAUX;3-6 pts;N/C;Highly Urban/ Urban;janv-22;complet;dev_express;A
+966;F;0-18;FAUX;0;175000-200000;450000-500000;PhD;Commercial;Panel Truck;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+967;M;54-72;FAUX;0;175000-200000;450000-500000;PhD;Private;SUV;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+968;M;0-18;FAUX;0;150000-175000;450000-500000;PhD;Private;Sports Car;VRAI;0-3 pts;N/C;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+969;M;36-54;FAUX;2;25000-50000;N/C;<High School;Private;Sports Car;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+970;F;36-54;FAUX;0;50000-75000;200000-250000;Masters;Private;Minivan;FAUX;0-3 pts;20-25 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+971;M;54-72;FAUX;0;25000-50000;150000-200000;High School;Private;Minivan;VRAI;0-3 pts;0-5 ans;Highly Rural/ Rural;avr-22;complet;dev_premium;B
+972;F;36-54;FAUX;0;25000-50000;0-50000;Masters;Private;SUV;FAUX;3-6 pts;15-20 ans;Highly Urban/ Urban;févr-22;complet;dev_premium;B
+973;M;36-54;FAUX;0;0-25000;50000-100000;Bachelors;Private;SUV;FAUX;0-3 pts;10-15 ans;Highly Rural/ Rural;janv-22;complet;dev_express;A
+974;F;36-54;FAUX;0;0-25000;150000-200000;High School;Private;SUV;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+975;F;72-90;FAUX;0;75000-100000;0-50000;Masters;Commercial;Van;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+976;M;0-18;FAUX;2;25000-50000;100000-150000;High School;Private;Pickup;VRAI;3-6 pts;0-5 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+977;F;72-90;FAUX;0;75000-100000;200000-250000;Masters;Private;Minivan;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+978;F;54-72;FAUX;0;25000-50000;0-50000;<High School;Private;Minivan;FAUX;0-3 pts;0-5 ans;Highly Rural/ Rural;mai-22;complet;dev_integral;A
+979;F;54-72;VRAI;3;0-25000;100000-150000;<High School;Private;Pickup;VRAI;0-3 pts;0-5 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+980;F;36-54;FAUX;0;25000-50000;100000-150000;High School;Private;Minivan;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+981;F;54-72;FAUX;0;50000-75000;0-50000;Bachelors;Private;Minivan;FAUX;3-6 pts;10-15 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+982;M;90-108;FAUX;0;275000-300000;N/C;PhD;Private;Minivan;VRAI;0-3 pts;15-20 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+983;F;54-72;FAUX;0;50000-75000;150000-200000;Bachelors;Private;Sports Car;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+984;F;0-18;FAUX;3;50000-75000;150000-200000;Masters;Private;Pickup;FAUX;3-6 pts;20-25 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+985;M;54-72;FAUX;2;100000-125000;300000-350000;PhD;Commercial;Panel Truck;FAUX;0-3 pts;20-25 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+986;F;54-72;FAUX;0;50000-75000;200000-250000;<High School;Commercial;Panel Truck;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;mars-22;complet;dev_premium;A
+987;M;0-18;FAUX;0;75000-100000;250000-300000;High School;Commercial;Pickup;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+988;M;36-54;FAUX;0;50000-75000;250000-300000;Bachelors;Commercial;Panel Truck;VRAI;3-6 pts;0-5 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+989;M;54-72;FAUX;0;125000-150000;0-50000;Masters;Private;Minivan;FAUX;6-9 pts;15-20 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+990;F;36-54;FAUX;1;0-25000;0-50000;High School;Commercial;Pickup;FAUX;0-3 pts;0-5 ans;Highly Rural/ Rural;mai-22;complet;dev_premium;B
+991;M;0-18;FAUX;0;25000-50000;100000-150000;Bachelors;Commercial;Sports Car;FAUX;3-6 pts;5-10 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+992;F;0-18;FAUX;0;25000-50000;100000-150000;High School;Private;Pickup;VRAI;3-6 pts;10-15 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+993;F;54-72;FAUX;0;N/C;100000-150000;High School;Private;Minivan;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+994;F;0-18;FAUX;0;25000-50000;150000-200000;High School;Commercial;Sports Car;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+995;M;72-90;FAUX;0;25000-50000;0-50000;High School;Private;Sports Car;FAUX;3-6 pts;0-5 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+996;F;54-72;FAUX;0;75000-100000;0-50000;Bachelors;Private;Sports Car;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+997;M;18-36;FAUX;2;N/C;50000-100000;High School;Private;SUV;FAUX;0-3 pts;5-10 ans;Highly Rural/ Rural;avr-22;complet;dev_integral;A
+998;M;54-72;FAUX;0;50000-75000;N/C;Masters;Commercial;Van;VRAI;0-3 pts;0-5 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+999;M;54-72;FAUX;0;100000-125000;N/C;Masters;Commercial;Pickup;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+1000;M;0-18;FAUX;0;50000-75000;0-50000;High School;Private;SUV;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+1001;F;72-90;FAUX;0;0-25000;50000-100000;<High School;Private;SUV;FAUX;0-3 pts;0-5 ans;Highly Rural/ Rural;févr-22;complet;dev_integral;A
+1002;F;54-72;FAUX;0;50000-75000;0-50000;<High School;Private;SUV;VRAI;6-9 pts;5-10 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+1003;F;72-90;FAUX;0;N/C;100000-150000;<High School;Private;SUV;FAUX;0-3 pts;5-10 ans;Highly Rural/ Rural;avr-22;complet;dev_integral;A
+1004;M;36-54;FAUX;0;25000-50000;100000-150000;Bachelors;Private;Minivan;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+1005;F;36-54;FAUX;0;0-25000;100000-150000;High School;Private;SUV;FAUX;0-3 pts;N/C;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+1006;F;18-36;FAUX;0;0-25000;50000-100000;<High School;Private;Minivan;VRAI;0-3 pts;0-5 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+1007;M;36-54;FAUX;0;0-25000;100000-150000;<High School;Private;SUV;FAUX;0-3 pts;0-5 ans;Highly Rural/ Rural;mai-22;complet;dev_express;A
+1008;F;36-54;FAUX;3;0-25000;100000-150000;High School;Private;SUV;FAUX;3-6 pts;0-5 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+1009;M;54-72;VRAI;2;50000-75000;200000-250000;Masters;Commercial;Panel Truck;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+1010;F;54-72;FAUX;1;25000-50000;0-50000;Masters;Private;SUV;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+1011;F;54-72;FAUX;0;50000-75000;200000-250000;Bachelors;Private;SUV;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+1012;M;18-36;FAUX;2;25000-50000;100000-150000;High School;Private;SUV;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+1013;F;54-72;FAUX;1;25000-50000;0-50000;Bachelors;Private;Pickup;FAUX;9-12 pts;0-5 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+1014;M;0-18;FAUX;0;25000-50000;100000-150000;High School;Commercial;Pickup;VRAI;0-3 pts;0-5 ans;Highly Rural/ Rural;mars-22;complet;dev_express;A
+1015;M;54-72;FAUX;2;125000-150000;350000-400000;High School;Private;Minivan;VRAI;0-3 pts;0-5 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+1016;M;54-72;VRAI;3;50000-75000;200000-250000;Bachelors;Private;Minivan;VRAI;6-9 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+1017;M;72-90;FAUX;0;100000-125000;0-50000;Masters;Private;Minivan;VRAI;0-3 pts;15-20 ans;Highly Rural/ Rural;mars-22;complet;dev_express;A
+1018;M;36-54;VRAI;2;100000-125000;300000-350000;Masters;Private;Minivan;VRAI;0-3 pts;10-15 ans;Highly Urban/ Urban;mars-22;complet;dev_premium;B
+1019;M;54-72;FAUX;0;0-25000;100000-150000;High School;Commercial;Minivan;VRAI;3-6 pts;10-15 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+1020;F;18-36;FAUX;0;50000-75000;200000-250000;Masters;Private;Minivan;VRAI;3-6 pts;15-20 ans;Highly Urban/ Urban;janv-22;complet;dev_premium;A
+1021;F;72-90;FAUX;0;0-25000;0-50000;<High School;Private;Sports Car;FAUX;3-6 pts;5-10 ans;Highly Rural/ Rural;mai-22;complet;dev_premium;B
+1022;F;36-54;FAUX;0;100000-125000;350000-400000;Masters;Private;Sports Car;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;janv-22;complet;dev_premium;B
+1023;M;0-18;FAUX;0;25000-50000;100000-150000;High School;Private;Minivan;VRAI;0-3 pts;0-5 ans;Highly Rural/ Rural;mai-22;complet;dev_express;A
+1024;M;54-72;FAUX;1;75000-100000;200000-250000;Masters;Private;SUV;FAUX;0-3 pts;N/C;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+1025;M;54-72;FAUX;2;25000-50000;150000-200000;Masters;Private;Sports Car;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;mars-22;complet;dev_premium;B
+1026;F;72-90;FAUX;0;100000-125000;250000-300000;Bachelors;Private;SUV;FAUX;3-6 pts;15-20 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+1027;F;36-54;FAUX;3;0-25000;0-50000;High School;Private;SUV;FAUX;3-6 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+1028;M;0-18;FAUX;0;0-25000;0-50000;Bachelors;Commercial;SUV;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+1029;M;18-36;VRAI;2;0-25000;0-50000;High School;Private;SUV;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+1030;M;18-36;FAUX;0;125000-150000;300000-350000;Bachelors;Private;Van;VRAI;3-6 pts;0-5 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+1031;F;54-72;FAUX;1;50000-75000;150000-200000;High School;Commercial;Pickup;VRAI;3-6 pts;10-15 ans;Highly Urban/ Urban;févr-22;complet;dev_vip;C
+1032;M;36-54;FAUX;0;0-25000;0-50000;<High School;Private;SUV;FAUX;6-9 pts;5-10 ans;Highly Rural/ Rural;févr-22;complet;dev_integral;A
+1033;F;54-72;VRAI;3;75000-100000;200000-250000;Bachelors;Private;Minivan;FAUX;6-9 pts;10-15 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+1034;M;54-72;FAUX;2;50000-75000;200000-250000;Bachelors;Private;Sports Car;FAUX;0-3 pts;N/C;Highly Urban/ Urban;avr-22;complet;dev_express;A
+1035;M;36-54;FAUX;1;N/C;N/C;High School;Private;Pickup;FAUX;0-3 pts;0-5 ans;Highly Rural/ Rural;mai-22;complet;dev_premium;B
+1036;M;54-72;FAUX;0;N/C;250000-300000;PhD;Private;Van;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+1037;F;36-54;FAUX;0;0-25000;100000-150000;Masters;Private;Pickup;VRAI;3-6 pts;15-20 ans;Highly Rural/ Rural;mars-22;complet;dev_integral;A
+1038;F;18-36;FAUX;2;25000-50000;0-50000;Bachelors;Commercial;Minivan;VRAI;6-9 pts;N/C;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+1039;M;36-54;FAUX;1;N/C;0-50000;Bachelors;Commercial;Pickup;VRAI;0-3 pts;5-10 ans;Highly Rural/ Rural;janv-22;complet;dev_integral;A
+1040;M;72-90;FAUX;0;0-25000;100000-150000;<High School;Private;SUV;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+1041;F;18-36;FAUX;1;25000-50000;150000-200000;High School;Private;Minivan;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+1042;M;72-90;FAUX;1;125000-150000;350000-400000;Masters;Private;SUV;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+1043;F;0-18;FAUX;0;0-25000;0-50000;High School;Private;SUV;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+1044;M;18-36;FAUX;0;50000-75000;200000-250000;Masters;Commercial;Panel Truck;FAUX;3-6 pts;15-20 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+1045;M;72-90;FAUX;0;0-25000;100000-150000;High School;Private;Minivan;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+1046;M;36-54;FAUX;0;0-25000;0-50000;PhD;Commercial;Sports Car;FAUX;6-9 pts;10-15 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+1047;M;18-36;FAUX;0;0-25000;50000-100000;High School;Private;Sports Car;FAUX;0-3 pts;0-5 ans;Highly Rural/ Rural;févr-22;complet;dev_express;A
+1048;F;36-54;FAUX;0;0-25000;0-50000;High School;Commercial;Panel Truck;VRAI;0-3 pts;5-10 ans;Highly Rural/ Rural;mai-22;complet;dev_integral;A
+1049;M;54-72;FAUX;0;50000-75000;150000-200000;Bachelors;Private;Minivan;FAUX;3-6 pts;5-10 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+1050;F;18-36;FAUX;0;0-25000;100000-150000;High School;Private;SUV;FAUX;3-6 pts;5-10 ans;Highly Rural/ Rural;mai-22;complet;dev_integral;A
+1051;M;54-72;FAUX;0;75000-100000;250000-300000;Bachelors;Private;Minivan;VRAI;0-3 pts;5-10 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+1052;M;72-90;FAUX;0;50000-75000;200000-250000;High School;Commercial;SUV;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+1053;M;18-36;FAUX;3;0-25000;0-50000;High School;Private;Minivan;VRAI;3-6 pts;0-5 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+1054;M;18-36;FAUX;0;N/C;N/C;Bachelors;Commercial;Minivan;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+1055;F;54-72;FAUX;0;25000-50000;0-50000;Bachelors;Private;Minivan;VRAI;3-6 pts;10-15 ans;Highly Urban/ Urban;janv-22;complet;dev_premium;B
+1056;M;72-90;FAUX;0;50000-75000;150000-200000;Bachelors;Commercial;Panel Truck;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+1057;M;90-108;FAUX;0;75000-100000;0-50000;Masters;Private;Pickup;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+1058;F;54-72;FAUX;3;50000-75000;150000-200000;High School;Commercial;Minivan;FAUX;0-3 pts;0-5 ans;Highly Rural/ Rural;mai-22;complet;dev_integral;A
+1059;F;72-90;FAUX;1;50000-75000;200000-250000;Bachelors;Commercial;Minivan;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;janv-22;complet;dev_premium;B
+1060;F;0-18;FAUX;0;50000-75000;150000-200000;<High School;Commercial;Pickup;VRAI;0-3 pts;0-5 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+1061;F;54-72;FAUX;0;50000-75000;0-50000;Masters;Commercial;Panel Truck;FAUX;6-9 pts;15-20 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+1062;M;36-54;FAUX;0;175000-200000;500000-550000;Masters;Commercial;Panel Truck;FAUX;3-6 pts;15-20 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+1063;F;54-72;FAUX;0;25000-50000;150000-200000;Bachelors;Private;Sports Car;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+1064;F;18-36;VRAI;0;125000-150000;300000-350000;PhD;Private;SUV;FAUX;3-6 pts;N/C;Highly Urban/ Urban;mars-22;complet;dev_express;A
+1065;M;36-54;FAUX;0;0-25000;100000-150000;<High School;Private;SUV;FAUX;0-3 pts;0-5 ans;Highly Rural/ Rural;avr-22;complet;dev_express;A
+1066;F;54-72;FAUX;0;50000-75000;200000-250000;Masters;Private;Van;FAUX;3-6 pts;10-15 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+1067;M;54-72;FAUX;0;0-25000;100000-150000;Masters;Private;Minivan;VRAI;3-6 pts;15-20 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+1068;F;54-72;FAUX;1;50000-75000;150000-200000;Bachelors;Private;Sports Car;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+1069;F;72-90;FAUX;0;25000-50000;150000-200000;<High School;Commercial;Van;FAUX;6-9 pts;0-5 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+1070;F;0-18;FAUX;0;125000-150000;300000-350000;Masters;Private;Van;VRAI;0-3 pts;10-15 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+1071;F;36-54;VRAI;3;100000-125000;300000-350000;Bachelors;Commercial;Pickup;VRAI;0-3 pts;0-5 ans;Highly Rural/ Rural;mars-22;complet;dev_express;A
+1072;F;36-54;VRAI;2;25000-50000;200000-250000;High School;Commercial;Van;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+1073;M;36-54;VRAI;1;100000-125000;300000-350000;Bachelors;Commercial;Van;VRAI;0-3 pts;10-15 ans;Highly Rural/ Rural;mars-22;complet;dev_integral;A
+1074;F;36-54;FAUX;0;150000-175000;0-50000;Masters;Commercial;Panel Truck;VRAI;3-6 pts;15-20 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+1075;F;54-72;FAUX;0;50000-75000;150000-200000;Bachelors;Commercial;Pickup;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+1076;F;72-90;VRAI;2;25000-50000;0-50000;High School;Private;Van;FAUX;0-3 pts;N/C;Highly Urban/ Urban;févr-22;complet;dev_express;A
+1077;F;36-54;VRAI;2;25000-50000;0-50000;High School;Private;Pickup;VRAI;0-3 pts;5-10 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+1078;F;54-72;FAUX;0;50000-75000;N/C;High School;Private;SUV;FAUX;3-6 pts;5-10 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+1079;F;36-54;FAUX;0;25000-50000;0-50000;Bachelors;Commercial;Panel Truck;VRAI;0-3 pts;0-5 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+1080;M;18-36;FAUX;0;50000-75000;0-50000;Bachelors;Private;Minivan;VRAI;3-6 pts;10-15 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+1081;F;18-36;FAUX;0;125000-150000;300000-350000;Bachelors;Commercial;Panel Truck;VRAI;0-3 pts;0-5 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+1082;M;72-90;FAUX;2;100000-125000;350000-400000;Masters;Private;Minivan;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+1083;M;36-54;FAUX;0;75000-100000;250000-300000;PhD;Private;Sports Car;FAUX;3-6 pts;15-20 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+1084;M;0-18;FAUX;0;50000-75000;0-50000;Masters;Private;SUV;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+1085;F;18-36;FAUX;2;75000-100000;300000-350000;Bachelors;Commercial;Minivan;VRAI;0-3 pts;0-5 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+1086;F;54-72;VRAI;2;0-25000;N/C;High School;Private;Sports Car;FAUX;3-6 pts;0-5 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+1087;F;36-54;VRAI;3;25000-50000;150000-200000;<High School;Private;Minivan;FAUX;3-6 pts;0-5 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+1088;M;72-90;FAUX;0;N/C;300000-350000;Bachelors;Commercial;Van;VRAI;0-3 pts;5-10 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+1089;F;18-36;FAUX;0;25000-50000;150000-200000;Masters;Private;SUV;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+1090;M;36-54;FAUX;1;75000-100000;200000-250000;<High School;Commercial;Van;VRAI;3-6 pts;0-5 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+1091;M;54-72;FAUX;0;25000-50000;0-50000;<High School;Private;Pickup;VRAI;0-3 pts;0-5 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+1092;F;54-72;FAUX;2;0-25000;100000-150000;Masters;Private;Sports Car;VRAI;6-9 pts;5-10 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+1093;F;36-54;FAUX;2;50000-75000;200000-250000;Bachelors;Commercial;Pickup;FAUX;0-3 pts;5-10 ans;Highly Rural/ Rural;avr-22;complet;dev_integral;A
+1094;F;36-54;FAUX;0;75000-100000;N/C;Masters;Commercial;Panel Truck;VRAI;0-3 pts;15-20 ans;Highly Rural/ Rural;avr-22;complet;dev_integral;A
+1095;F;0-18;VRAI;3;0-25000;0-50000;PhD;Commercial;Pickup;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+1096;F;54-72;VRAI;2;75000-100000;0-50000;Bachelors;Private;Minivan;FAUX;3-6 pts;10-15 ans;Highly Urban/ Urban;mars-22;complet;dev_premium;A
+1097;F;36-54;FAUX;3;0-25000;0-50000;High School;Private;Minivan;FAUX;3-6 pts;5-10 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+1098;F;54-72;FAUX;0;100000-125000;300000-350000;Bachelors;Commercial;Panel Truck;VRAI;0-3 pts;N/C;Highly Rural/ Rural;févr-22;complet;dev_integral;A
+1099;M;0-18;FAUX;0;100000-125000;250000-300000;Bachelors;Commercial;Minivan;FAUX;3-6 pts;10-15 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+1100;M;72-90;VRAI;2;N/C;250000-300000;Bachelors;Commercial;SUV;FAUX;3-6 pts;5-10 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+1101;M;36-54;FAUX;3;150000-175000;400000-450000;PhD;Private;Van;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;mars-22;complet;dev_vip;C
+1102;F;54-72;FAUX;0;25000-50000;0-50000;Masters;Private;Minivan;VRAI;0-3 pts;5-10 ans;Highly Rural/ Rural;mars-22;complet;dev_integral;A
+1103;M;36-54;FAUX;0;100000-125000;0-50000;Masters;Private;Minivan;VRAI;0-3 pts;5-10 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+1104;F;54-72;FAUX;0;75000-100000;0-50000;Bachelors;Commercial;SUV;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+1105;M;0-18;FAUX;0;100000-125000;300000-350000;Bachelors;Private;Minivan;FAUX;0-3 pts;0-5 ans;Highly Rural/ Rural;avr-22;complet;dev_express;A
+1106;M;0-18;VRAI;3;100000-125000;300000-350000;Masters;Commercial;Panel Truck;FAUX;9-12 pts;15-20 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+1107;M;0-18;FAUX;0;50000-75000;200000-250000;Masters;Commercial;Panel Truck;VRAI;0-3 pts;10-15 ans;Highly Urban/ Urban;mars-22;complet;dev_premium;A
+1108;M;0-18;FAUX;2;25000-50000;200000-250000;Bachelors;Private;SUV;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+1109;F;54-72;FAUX;0;75000-100000;250000-300000;Bachelors;Commercial;Van;FAUX;6-9 pts;5-10 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+1110;M;36-54;FAUX;1;125000-150000;350000-400000;Masters;Private;SUV;FAUX;3-6 pts;10-15 ans;Highly Urban/ Urban;mars-22;complet;dev_premium;A
+1111;M;54-72;FAUX;0;0-25000;100000-150000;<High School;Commercial;Pickup;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+1112;M;18-36;FAUX;0;50000-75000;150000-200000;Masters;Private;Sports Car;FAUX;0-3 pts;20-25 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+1113;M;72-90;FAUX;0;0-25000;100000-150000;Bachelors;Private;Sports Car;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+1114;M;54-72;FAUX;0;25000-50000;150000-200000;<High School;Private;Van;VRAI;3-6 pts;0-5 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+1115;F;54-72;FAUX;0;25000-50000;0-50000;Masters;Private;Minivan;FAUX;0-3 pts;15-20 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+1116;F;36-54;FAUX;0;50000-75000;200000-250000;Masters;Private;Pickup;VRAI;0-3 pts;10-15 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+1117;M;0-18;FAUX;2;25000-50000;N/C;High School;Private;Pickup;VRAI;0-3 pts;5-10 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+1118;F;36-54;FAUX;0;25000-50000;150000-200000;High School;Commercial;Pickup;VRAI;0-3 pts;0-5 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+1119;M;72-90;FAUX;0;50000-75000;200000-250000;High School;Private;Minivan;VRAI;0-3 pts;5-10 ans;Highly Urban/ Urban;févr-22;complet;dev_express;A
+1120;F;18-36;FAUX;0;75000-100000;250000-300000;PhD;Private;Minivan;VRAI;0-3 pts;10-15 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+1121;M;18-36;FAUX;0;75000-100000;0-50000;Bachelors;Private;Sports Car;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+1122;F;54-72;FAUX;0;100000-125000;300000-350000;Masters;Commercial;Panel Truck;VRAI;0-3 pts;15-20 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+1123;F;72-90;FAUX;0;100000-125000;300000-350000;Masters;Commercial;Panel Truck;VRAI;0-3 pts;10-15 ans;Highly Urban/ Urban;févr-22;complet;dev_premium;A
+1124;M;18-36;VRAI;3;25000-50000;100000-150000;High School;Commercial;Minivan;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+1125;F;0-18;FAUX;2;50000-75000;200000-250000;Bachelors;Commercial;Pickup;FAUX;0-3 pts;10-15 ans;Highly Rural/ Rural;mars-22;complet;dev_express;A
+1126;M;0-18;FAUX;0;50000-75000;N/C;Bachelors;Private;Pickup;VRAI;0-3 pts;10-15 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+1127;M;0-18;FAUX;0;0-25000;0-50000;High School;Commercial;Minivan;VRAI;0-3 pts;10-15 ans;Highly Rural/ Rural;mars-22;complet;dev_express;A
+1128;F;0-18;FAUX;0;50000-75000;200000-250000;High School;Private;SUV;FAUX;0-3 pts;5-10 ans;Highly Rural/ Rural;mai-22;complet;dev_integral;A
+1129;M;0-18;FAUX;0;100000-125000;300000-350000;Bachelors;Private;SUV;FAUX;3-6 pts;5-10 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+1130;F;0-18;FAUX;0;50000-75000;250000-300000;<High School;Private;SUV;FAUX;3-6 pts;0-5 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+1131;F;54-72;FAUX;0;150000-175000;350000-400000;PhD;Private;SUV;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+1132;F;18-36;FAUX;0;0-25000;N/C;High School;Private;Minivan;FAUX;0-3 pts;0-5 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+1133;F;36-54;FAUX;2;50000-75000;200000-250000;Bachelors;Private;Minivan;VRAI;3-6 pts;5-10 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+1134;F;72-90;FAUX;0;25000-50000;100000-150000;High School;Private;SUV;FAUX;0-3 pts;10-15 ans;Highly Rural/ Rural;févr-22;complet;dev_integral;A
+1135;M;18-36;FAUX;1;50000-75000;150000-200000;Bachelors;Private;SUV;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+1136;F;72-90;FAUX;1;25000-50000;100000-150000;PhD;Private;SUV;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+1137;F;54-72;FAUX;0;25000-50000;150000-200000;Masters;Private;SUV;FAUX;3-6 pts;N/C;Highly Urban/ Urban;mai-22;complet;dev_express;A
+1138;F;0-18;FAUX;0;0-25000;0-50000;Bachelors;Private;Sports Car;FAUX;9-12 pts;0-5 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+1139;F;36-54;FAUX;0;25000-50000;0-50000;High School;Private;SUV;FAUX;0-3 pts;10-15 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+1140;M;0-18;FAUX;0;25000-50000;150000-200000;<High School;Private;Pickup;FAUX;3-6 pts;0-5 ans;Highly Urban/ Urban;avr-22;complet;dev_integral;A
+1141;M;54-72;VRAI;2;0-25000;50000-100000;Bachelors;Private;Sports Car;FAUX;0-3 pts;10-15 ans;Highly Rural/ Rural;févr-22;complet;dev_integral;A
+1142;F;54-72;FAUX;0;0-25000;100000-150000;<High School;Commercial;Pickup;VRAI;0-3 pts;5-10 ans;Highly Rural/ Rural;févr-22;complet;dev_express;A
+1143;F;54-72;FAUX;0;100000-125000;300000-350000;PhD;Private;Pickup;VRAI;3-6 pts;20-25 ans;Highly Urban/ Urban;mai-22;complet;dev_integral;A
+1144;F;72-90;VRAI;3;75000-100000;200000-250000;Bachelors;Commercial;Panel Truck;FAUX;0-3 pts;N/C;Highly Rural/ Rural;mai-22;complet;dev_integral;A
+1145;M;54-72;FAUX;1;0-25000;N/C;<High School;Private;Sports Car;FAUX;0-3 pts;5-10 ans;Highly Urban/ Urban;mars-22;complet;dev_express;A
+1146;M;36-54;FAUX;0;75000-100000;0-50000;PhD;Private;Minivan;VRAI;3-6 pts;20-25 ans;Highly Urban/ Urban;janv-22;complet;dev_express;A
+1147;M;72-90;FAUX;2;50000-75000;0-50000;<High School;Private;SUV;FAUX;6-9 pts;0-5 ans;Highly Urban/ Urban;mars-22;complet;dev_integral;A
+1148;F;72-90;FAUX;0;25000-50000;150000-200000;<High School;Private;SUV;FAUX;0-3 pts;5-10 ans;Highly Rural/ Rural;janv-22;complet;dev_express;A
+1149;F;0-18;FAUX;0;50000-75000;150000-200000;<High School;Private;Minivan;VRAI;0-3 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_premium;B
+1150;M;54-72;FAUX;0;75000-100000;250000-300000;Bachelors;Commercial;Minivan;FAUX;6-9 pts;10-15 ans;Highly Urban/ Urban;avr-22;complet;dev_express;A
+1151;M;54-72;VRAI;1;0-25000;100000-150000;High School;Commercial;Pickup;FAUX;3-6 pts;5-10 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+1152;M;54-72;FAUX;0;100000-125000;0-50000;Masters;Commercial;Panel Truck;VRAI;3-6 pts;20-25 ans;Highly Urban/ Urban;févr-22;complet;dev_integral;A
+1153;M;72-90;FAUX;0;0-25000;150000-200000;High School;Private;SUV;FAUX;0-3 pts;5-10 ans;Highly Rural/ Rural;janv-22;complet;dev_integral;A
+1154;F;54-72;FAUX;0;125000-150000;300000-350000;Masters;Private;Minivan;VRAI;0-3 pts;20-25 ans;Highly Urban/ Urban;mai-22;complet;dev_express;A
+1155;M;0-18;FAUX;0;25000-50000;100000-150000;High School;Private;Minivan;FAUX;0-3 pts;0-5 ans;Highly Rural/ Rural;mai-22;complet;dev_express;A
+1156;F;54-72;FAUX;0;50000-75000;200000-250000;High School;Private;Minivan;FAUX;3-6 pts;0-5 ans;Highly Urban/ Urban;janv-22;complet;dev_integral;A
+1157;F;72-90;FAUX;0;75000-100000;250000-300000;Bachelors;Commercial;Van;FAUX;6-9 pts;0-5 ans;Highly Urban/ Urban;janv-22;complet;dev_premium;B
+1158;M;72-90;VRAI;0;25000-50000;0-50000;High School;Private;Minivan;FAUX;0-3 pts;0-5 ans;Highly Rural/ Rural;mai-22;complet;dev_integral;A
