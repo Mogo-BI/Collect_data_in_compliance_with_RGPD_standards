@@ -1,1 +1,1 @@
-# Collectez_des_données_en_respectant_les_normes_RGPD
+# Collect_data_in_compliance_with_RGPD_standards
