@@ -30,5 +30,7 @@ So, they needed to put themselves in compliance with RGPD standards.
   <h2>4. Documentation of data processing and writing recommendations for the management department</h2>
     <li>Demonstrate in a report the respect of quality process applied and recommended in the collect and the preparation of data</li>
 
-  <h2>5. Documentation of data processing and writing recommendations for the management department</h2>
-    <li>Demonstrate in a report the respect of quality process applied and recommended in the collect and the preparation of data</li>
+  <h2>5. Presentation to the general manager</h2>
+    <li>Make sure the general manager be familiar with technical terms</li>
+    <li>Limit and explain the specific vocabulary used</li>
+    <li>Use a reassuring tone</li>
