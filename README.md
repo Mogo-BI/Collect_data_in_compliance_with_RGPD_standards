@@ -1,6 +1,6 @@
 # Collect_data_in_compliance_with_RGPD_standards
 
-<h1>Context</h1>
+<h1>I. Context</h1>
 
 I did a consulting mission like BI Analyst in **Dev'Immediat**, an automobile insurance broker company.
 
@@ -10,7 +10,7 @@ In fact, their data protection had some troubles. Following a customer complaint
 
 So, they needed to put themselves in compliance with RGPD standards.
 
-<h1>Methodology</h1>
+<h1>II. Methodology</h1>
   <h2>1. Frame definition</h2>
     <li>Get informed about RGPD compiance rules</li>
     <li>Identify data protection rules needed to apply depending of their data</li>
