@@ -28,7 +28,7 @@ So, they needed to put themselves in compliance with RGPD standards.
     <li>To note the recommendations to be made for the principles which would not be immediately applicable to the data</li>
 
   <h2>4. Documentation of data processing and writing recommendations for the management department</h2>
-    <li>Demonstrate in a report the respect of quality process applied and recommended in the collect and the preparation of data</li>
+    <li>Demonstrate in a report (template provided by the DPO) the respect of quality process applied and recommended in the collect and the preparation of data</li>
 
   <h2>5. Presentation to the general manager</h2>
     <li>Make sure the general manager be familiar with technical terms</li>
