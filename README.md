@@ -19,7 +19,7 @@ So, they needed to put themselves in compliance with RGPD standards.
     <li>Write at least 5 recommendations on management rules to implement on the CRM data to comply with RGPD standards</li>
 
   <h2>2. Data recovery</h2>
-    <li>Data extraction using SQL, for current year and for customers who had a "full" file</li>
+    <li>Data extraction using SQL, for current year and for customers who had a fully file</li>
     <li>Select only strictly required data</li>
     
   <h2>3. Dataset cleaning</h2>
