@@ -39,17 +39,25 @@ So, they needed to put themselves in compliance with RGPD standards.
 
    <h2>1. Technologies</h2>
 
-   <h2>2. Skills</h2>
+   <h2>2. Assessed skills</h2>
+     <li>Collect data by applying protection standards</li>
+     <li>Document and transfer data to a staging area in compliance with RGPD standards</li>
+     <li>Préparer des données en garantissant le respect des processus qualité</li>
 
 <h1>IV. References</h1>
 
   <h2>1. Data</h2>
-    <li><a href="https://openclassrooms.com/fr/courses/7869811-developpez-votre-culture-des-donnees">Openclassrooms : Développez votre culture des données</a></li>
+    <li><a href="https://openclassrooms.com/fr/courses/7693881-initiez-vous-a-la-gouvernance-des-donnees">Openclassrooms : Initiez vous à la gouvernance des données</a></li>
 
   <h2>2. Office automation</h2>
     <li><a href="https://openclassrooms.com/fr/courses/7168336-maitrisez-les-fondamentaux-dexcel">Openclassrooms : Maitrîsez les fondamentaux d'Excel</a></li>
     <li><a href="https://openclassrooms.com/fr/courses/7139456-perfectionnez-vous-sur-excel">Openclassrooms : Perfectionnez vous sur Excel</a></li>
+    <li><a href="https://learn.microsoft.com/fr-fr/power-query/get-data-experience">Microsoft : Documentation Power Query</a></li>
+    <li><a href="https://learn.microsoft.com/fr-fr/powerquery-m/">Microsoft : Documentation Langage M</a></li>
+    <li><a href="https://www.youtube.com/watch?v=3GqTw0mZF7I/">Youtube 'Charles Exceller' : Découvrir Power Query</a></li>
  
   <h2>3. Softskills</h2>
-    <li><a href="https://openclassrooms.com/fr/courses/3013891-ameliorez-limpact-de-vos-presentations">Openclassrooms : Améliorez l'impact de vos présentations</a></li>
-    <li><a href="https://course.oc-static.com/projects/Data+Storytelling+639/Fiche+pratique+-+Les+principaux+types+de++visualisations.pdf">Fiche Pratique : Les principaux types de visualisations</li>
+    <li><a href="https://openclassrooms.com/fr/courses/6909446-prenez-des-decisions-efficaces">Openclassrooms : Prenez des décisions efficaces</a></li>
+    <li><a href="https://www.cnil.fr/fr/lanonymisation-de-donnees-personnelles">CNIL : L'anonymisation de données personnelles</li>
+    <li><a href="https://sante.gouv.fr/IMG/pdf/memento_rgpd-a5-190401-vf.pdf">Ministère des Solidarités et de la Santé : Mémento RGPD</li>
+    
