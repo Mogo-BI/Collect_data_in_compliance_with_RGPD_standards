@@ -34,3 +34,11 @@ So, they needed to put themselves in compliance with RGPD standards.
     <li>Make sure the general manager be familiar with technical terms</li>
     <li>Limit and explain the specific vocabulary used</li>
     <li>Use a reassuring tone</li>
+
+<h1>III. Technologies & skills</h1>
+
+   <h2>1. Technologies</h2>
+
+   <h2>2. Skills</h2>
+
+<h1>IV. References</h1>
