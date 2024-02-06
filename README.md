@@ -38,6 +38,9 @@ So, they needed to put themselves in compliance with RGPD standards.
 <h1>III. Technologies & skills</h1>
 
    <h2>1. Technologies</h2>
+     <li>Microsoft Excel - Power Query</li>
+     <li>Microsoft Powerpoint</li>
+     <li>SQLite Studio</li>
 
    <h2>2. Assessed skills</h2>
      <li>Collect data by applying protection standards</li>
@@ -50,7 +53,7 @@ So, they needed to put themselves in compliance with RGPD standards.
     <li><a href="https://openclassrooms.com/fr/courses/7693881-initiez-vous-a-la-gouvernance-des-donnees">Openclassrooms : Initiez vous à la gouvernance des données</a></li>
 
   <h2>2. Office automation</h2>
-    <li><a href="https://openclassrooms.com/fr/courses/7168336-maitrisez-les-fondamentaux-dexcel">Openclassrooms : Maitrîsez les fondamentaux d'Excel</a></li>
+    <li><a href="https://openclassrooms.com/fr/courses/7168336-maitrisez-les-fondamentaux-dexcel">Openclassrooms : Maîtrisez les fondamentaux d'Excel</a></li>
     <li><a href="https://openclassrooms.com/fr/courses/7139456-perfectionnez-vous-sur-excel">Openclassrooms : Perfectionnez vous sur Excel</a></li>
     <li><a href="https://learn.microsoft.com/fr-fr/power-query/get-data-experience">Microsoft : Documentation Power Query</a></li>
     <li><a href="https://learn.microsoft.com/fr-fr/powerquery-m/">Microsoft : Documentation Langage M</a></li>
