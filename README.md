@@ -52,7 +52,7 @@ So, they needed to put themselves in compliance with RGPD standards.
   <h2>1. Data</h2>
     <li><a href="https://openclassrooms.com/fr/courses/7693881-initiez-vous-a-la-gouvernance-des-donnees">Openclassrooms : Initiez vous à la gouvernance des données</a></li>
 
-  <h2>2. Office automation</h2>
+  <h2>2. Office tools</h2>
     <li><a href="https://openclassrooms.com/fr/courses/7168336-maitrisez-les-fondamentaux-dexcel">Openclassrooms : Maîtrisez les fondamentaux d'Excel</a></li>
     <li><a href="https://openclassrooms.com/fr/courses/7139456-perfectionnez-vous-sur-excel">Openclassrooms : Perfectionnez vous sur Excel</a></li>
     <li><a href="https://learn.microsoft.com/fr-fr/power-query/get-data-experience">Microsoft : Documentation Power Query</a></li>
